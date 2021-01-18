@@ -1,0 +1,7372 @@
+[{
+  "mongoid": {
+    "$oid": "5fa885e52efdc422b862ed2a"
+  },
+  "name": "LECOM",
+  "id": 2,
+  "schoolcolor": "rgba(0,82,155,0.8)",
+  "degreetype": "DO",
+  "applicationservice": "AACOMAS",
+  "state": "Pennsylvania",
+  "city": "Erie",
+  "imageurl": "lecom/logo.png",
+  "page": "/school-page/2",
+  "course_requirements": [
+    "Biology",
+    "General Chemistry",
+    "Organic Chemistry",
+    "Physics",
+    "Mathematics",
+    "English",
+    "Behavioral Sciences"
+  ],
+  "eligible": [
+    "Out of State",
+    "International"
+  ],
+  "standardized_tests": [],
+  "median_mcat": 503,
+  "median_gpa": 3.5,
+  "school_type": "Private",
+  "campus_type": "Suburban",
+  "dual_degree_programs": [],
+  "admissions_tags": [],
+  "academics_tags": [],
+  "finance": {
+    "os_tuition": 99999,
+    "is_tuition": 99999,
+    "source": [
+      {
+        "note": "",
+        "update_date": {
+          "$date": "2020-12-06T17:37:57.505Z"
+        },
+        "link": ""
+      }
+    ]
+  },
+  "overview": {
+    "mission_statement": "",
+    "description": "",
+    "students": 9999,
+    "header_images": [
+      "feinberg/header1.jpg",
+      "feinberg/header2.jpg",
+      "feinberg/header3.jpg"
+    ]
+  }
+},{
+  "mongoid": {
+    "$oid": "5fa885e52efdc422b862ed2b"
+  },
+  "name": "Harvard Medical School",
+  "id": 1,
+  "schoolcolor": "#A51C30",
+  "degreetype": "MD",
+  "applicationservice": "AMCAS",
+  "state": "Massachusetts",
+  "city": "Boston",
+  "imageurl": "harvard/logo.png",
+  "page": "/school-page/1",
+  "course_requirements": [
+    "Biology",
+    "General Chemistry",
+    "Organic Chemistry",
+    "Biochemistry",
+    "Physics",
+    "Mathematics",
+    "English"
+  ],
+  "standardized_tests": [
+    "MCAT"
+  ],
+  "eligible": [
+    "Out of State",
+    "International"
+  ],
+  "median_mcat": 520,
+  "median_gpa": 3.94,
+  "school_type": "Private",
+  "campus_type": "Urban",
+  "dual_degree_programs": [],
+  "admissions_tags": [],
+  "academics_tags": [],
+  "finance": {
+    "os_tuition": 99999,
+    "is_tuition": 99999,
+    "source": [
+      {
+        "note": "",
+        "update_date": {
+          "$date": "2020-12-06T17:37:57.505Z"
+        },
+        "link": ""
+      }
+    ]
+  },
+  "overview": {
+    "mission_statement": "",
+    "description": "",
+    "students": 9999,
+    "header_images": [
+      "feinberg/header1.jpg",
+      "feinberg/header2.jpg",
+      "feinberg/header3.jpg"
+    ]
+  }
+},{
+  "mongoid": {
+    "$oid": "5fa885e52efdc422b862ed2c"
+  },
+  "name": "A.T. Still University - School of Osteopathic Medicine Arizona",
+  "id": 3,
+  "schoolcolor": "#172940",
+  "degreetype": "DO",
+  "applicationservice": "AACOMAS",
+  "state": "Arizona",
+  "city": "Mesa",
+  "imageurl": "/atsu-soma/logo.png",
+  "page": "/school-page/3",
+  "course_requirements": [
+    "Biology",
+    "Physics",
+    "General Chemistry",
+    "Organic Chemistry",
+    "English"
+  ],
+  "standardized_tests": [],
+  "eligible": [
+    "Out of State"
+  ],
+  "median_mcat": 520,
+  "median_gpa": 3.94,
+  "school_type": "Private",
+  "campus_type": "Suburban",
+  "dual_degree_programs": [
+    "DO/MPH"
+  ],
+  "admissions_tags": [
+    "Early Decision Program"
+  ],
+  "academics_tags": [],
+  "finance": {
+    "os_tuition": 99999,
+    "is_tuition": 99999,
+    "source": [
+      {
+        "note": "",
+        "update_date": {
+          "$date": "2020-12-06T17:37:57.505Z"
+        },
+        "link": ""
+      }
+    ]
+  },
+  "overview": {
+    "mission_statement": "",
+    "description": "",
+    "students": 9999,
+    "header_images": [
+      "feinberg/header1.jpg",
+      "feinberg/header2.jpg",
+      "feinberg/header3.jpg"
+    ]
+  }
+},{
+  "mongoid": {
+    "$oid": "5fa885e52efdc422b862ed2d"
+  },
+  "name": "A.T. Still University - School of Osteopathic Medicine Arizona",
+  "id": 4,
+  "schoolcolor": "#172940",
+  "degreetype": "DO",
+  "applicationservice": "AACOMAS",
+  "state": "Missouri",
+  "city": "Kirksville",
+  "imageurl": "/atsu-soma/logo.png",
+  "page": "/school-page/4",
+  "course_requirements": [
+    "Biology",
+    "Physics",
+    "General Chemistry",
+    "Organic Chemistry",
+    "English"
+  ],
+  "standardized_tests": [],
+  "eligible": [
+    "Out of State"
+  ],
+  "median_mcat": 520,
+  "median_gpa": 3.94,
+  "school_type": "Private",
+  "campus_type": "Rural",
+  "dual_degree_programs": [
+    "DO/MPH"
+  ],
+  "admissions_tags": [
+    "Early Decision Program"
+  ],
+  "academics_tags": [],
+  "finance": {
+    "os_tuition": 99999,
+    "is_tuition": 99999,
+    "source": [
+      {
+        "note": "",
+        "update_date": {
+          "$date": "2020-12-06T17:37:57.505Z"
+        },
+        "link": ""
+      }
+    ]
+  },
+  "overview": {
+    "mission_statement": "",
+    "description": "",
+    "students": 9999,
+    "header_images": [
+      "feinberg/header1.jpg",
+      "feinberg/header2.jpg",
+      "feinberg/header3.jpg"
+    ]
+  }
+},{
+  "mongoid": {
+    "$oid": "5fa885e52efdc422b862ed2e"
+  },
+  "name": "Alabama College of Osteopathic Medicine",
+  "id": 5,
+  "schoolcolor": "#0057b7",
+  "degreetype": "DO",
+  "applicationservice": "AACOMAS",
+  "state": "Alabama",
+  "city": "Dothan",
+  "imageurl": "/acom/logo.jpg",
+  "page": "/school-page/5",
+  "course_requirements": [
+    "Biology",
+    "Physics",
+    "General Chemistry",
+    "Organic Chemistry",
+    "English"
+  ],
+  "standardized_tests": [
+    "CASPER",
+    "MCAT"
+  ],
+  "eligible": [
+    "Out of State"
+  ],
+  "median_mcat": 520,
+  "median_gpa": 3.94,
+  "school_type": "Private",
+  "campus_type": "Suburban",
+  "dual_degree_programs": [
+    "DO/MPH",
+    "DO/MBA",
+    "DO/MSM"
+  ],
+  "admissions_tags": [],
+  "academics_tags": [],
+  "finance": {
+    "os_tuition": 99999,
+    "is_tuition": 99999,
+    "source": [
+      {
+        "note": "",
+        "update_date": {
+          "$date": "2020-12-06T17:37:57.505Z"
+        },
+        "link": ""
+      }
+    ]
+  },
+  "overview": {
+    "mission_statement": "",
+    "description": "",
+    "students": 9999,
+    "header_images": [
+      "feinberg/header1.jpg",
+      "feinberg/header2.jpg",
+      "feinberg/header3.jpg"
+    ]
+  }
+},{
+  "mongoid": {
+    "$oid": "5fa885e52efdc422b862ed2f"
+  },
+  "name": "Arizona College of Osteopathic Medicine at Midwestern University",
+  "id": 6,
+  "schoolcolor": "#002f65",
+  "degreetype": "DO",
+  "applicationservice": "AACOMAS",
+  "state": "Arizona",
+  "city": "Glendale",
+  "imageurl": "/azcom/azcom.jpg",
+  "page": "/school-page/6",
+  "course_requirements": [
+    "Biology",
+    "Physics",
+    "General Chemistry",
+    "Organic Chemistry",
+    "English"
+  ],
+  "standardized_tests": [
+    "MCAT"
+  ],
+  "eligible": [
+    "Out of State",
+    "International"
+  ],
+  "median_mcat": 505,
+  "median_gpa": 3.94,
+  "school_type": "Private",
+  "campus_type": "Suburban",
+  "dual_degree_programs": [],
+  "admissions_tags": [],
+  "academics_tags": [],
+  "finance": {
+    "os_tuition": 99999,
+    "is_tuition": 99999,
+    "source": [
+      {
+        "note": "",
+        "update_date": {
+          "$date": "2020-12-06T17:37:57.505Z"
+        },
+        "link": ""
+      }
+    ]
+  },
+  "overview": {
+    "mission_statement": "",
+    "description": "",
+    "students": 9999,
+    "header_images": [
+      "feinberg/header1.jpg",
+      "feinberg/header2.jpg",
+      "feinberg/header3.jpg"
+    ]
+  }
+},{
+  "mongoid": {
+    "$oid": "5fa885e52efdc422b862ed30"
+  },
+  "name": "Arkansas College of Osteopathic Medicine",
+  "id": 7,
+  "schoolcolor": "#467767",
+  "degreetype": "DO",
+  "applicationservice": "AACOMAS",
+  "state": "Arkansas",
+  "city": "Fort Smith",
+  "imageurl": "/arcom/arcom.png",
+  "page": "/school-page/7",
+  "course_requirements": [
+    "Biology",
+    "Biochemistry",
+    "Physics",
+    "General Chemistry",
+    "Organic Chemistry",
+    "English"
+  ],
+  "standardized_tests": [
+    "MCAT",
+    "CASPER"
+  ],
+  "eligible": [
+    "Out of State"
+  ],
+  "median_mcat": 500,
+  "median_gpa": 3.5,
+  "school_type": "Private",
+  "campus_type": "Suburban",
+  "dual_degree_programs": [],
+  "admissions_tags": [],
+  "academics_tags": [],
+  "finance": {
+    "os_tuition": 99999,
+    "is_tuition": 99999,
+    "source": [
+      {
+        "note": "",
+        "update_date": {
+          "$date": "2020-12-06T17:37:57.505Z"
+        },
+        "link": ""
+      }
+    ]
+  },
+  "overview": {
+    "mission_statement": "",
+    "description": "",
+    "students": 9999,
+    "header_images": [
+      "feinberg/header1.jpg",
+      "feinberg/header2.jpg",
+      "feinberg/header3.jpg"
+    ]
+  }
+},{
+  "mongoid": {
+    "$oid": "5fa885e52efdc422b862ed31"
+  },
+  "name": "California Health Sciences University College of Osteopathic Medicine",
+  "id": 8,
+  "schoolcolor": "#6f0e10",
+  "degreetype": "DO",
+  "applicationservice": "AACOMAS",
+  "state": "California",
+  "city": "Clovis",
+  "imageurl": "/chsu/chsu.jpeg",
+  "page": "/school-page/8",
+  "course_requirements": [
+    "Biology",
+    "Physics",
+    "General Chemistry",
+    "Organic Chemistry",
+    "English"
+  ],
+  "standardized_tests": [
+    "MCAT",
+    "CASPER"
+  ],
+  "eligible": [
+    "Out of State"
+  ],
+  "median_mcat": 500,
+  "median_gpa": 3.5,
+  "school_type": "Private",
+  "campus_type": "Suburban",
+  "dual_degree_programs": [],
+  "admissions_tags": [],
+  "academics_tags": [],
+  "finance": {
+    "os_tuition": 99999,
+    "is_tuition": 99999,
+    "source": [
+      {
+        "note": "",
+        "update_date": {
+          "$date": "2020-12-06T17:37:57.505Z"
+        },
+        "link": ""
+      }
+    ]
+  },
+  "overview": {
+    "mission_statement": "",
+    "description": "",
+    "students": 9999,
+    "header_images": [
+      "feinberg/header1.jpg",
+      "feinberg/header2.jpg",
+      "feinberg/header3.jpg"
+    ]
+  }
+},{
+  "mongoid": {
+    "$oid": "5fa885e52efdc422b862ed32"
+  },
+  "name": "Campbell University Jerry M. Wallace School of Osteopathic Medicine",
+  "id": 9,
+  "schoolcolor": "#ea7125",
+  "degreetype": "DO",
+  "applicationservice": "AACOMAS",
+  "state": "North Carolina",
+  "city": "Lillington",
+  "imageurl": "/cusom/cusom.png",
+  "page": "/school-page/9",
+  "course_requirements": [
+    "Biology",
+    "Physics",
+    "General Chemistry",
+    "Organic Chemistry",
+    "English"
+  ],
+  "standardized_tests": [
+    "MCAT"
+  ],
+  "eligible": [
+    "Out of State",
+    "International"
+  ],
+  "median_mcat": 500,
+  "median_gpa": 3.5,
+  "school_type": "Private",
+  "campus_type": "Rural",
+  "dual_degree_programs": [
+    "DO/JD"
+  ],
+  "admissions_tags": [
+    "Early Decision Program"
+  ],
+  "academics_tags": [],
+  "finance": {
+    "os_tuition": 99999,
+    "is_tuition": 99999,
+    "source": [
+      {
+        "note": "",
+        "update_date": {
+          "$date": "2020-12-06T17:37:57.505Z"
+        },
+        "link": ""
+      }
+    ]
+  },
+  "overview": {
+    "mission_statement": "",
+    "description": "",
+    "students": 9999,
+    "header_images": [
+      "feinberg/header1.jpg",
+      "feinberg/header2.jpg",
+      "feinberg/header3.jpg"
+    ]
+  }
+},{
+  "mongoid": {
+    "$oid": "5fa885e52efdc422b862ed33"
+  },
+  "name": "Chicago College of Osteopathic Medicine at Midwestern University",
+  "id": 10,
+  "schoolcolor": "#002f65",
+  "degreetype": "DO",
+  "applicationservice": "AACOMAS",
+  "state": "Illinois",
+  "city": "Downers Grove",
+  "imageurl": "/cmwsom/cmwsom.jpg",
+  "page": "/school-page/10",
+  "course_requirements": [
+    "Biology",
+    "Physics",
+    "General Chemistry",
+    "Organic Chemistry",
+    "English"
+  ],
+  "standardized_tests": [
+    "MCAT",
+    "CASPER"
+  ],
+  "eligible": [
+    "Out of State",
+    "International"
+  ],
+  "median_mcat": 500,
+  "median_gpa": 3.5,
+  "school_type": "Private",
+  "campus_type": "Suburban",
+  "dual_degree_programs": [
+    "DO/MS",
+    "DO/MPH"
+  ],
+  "admissions_tags": [],
+  "academics_tags": [],
+  "finance": {
+    "os_tuition": 99999,
+    "is_tuition": 99999,
+    "source": [
+      {
+        "note": "",
+        "update_date": {
+          "$date": "2020-12-06T17:37:57.505Z"
+        },
+        "link": ""
+      }
+    ]
+  },
+  "overview": {
+    "mission_statement": "",
+    "description": "",
+    "students": 9999,
+    "header_images": [
+      "feinberg/header1.jpg",
+      "feinberg/header2.jpg",
+      "feinberg/header3.jpg"
+    ]
+  }
+},{
+  "mongoid": {
+    "$oid": "5fa885e52efdc422b862ed34"
+  },
+  "name": "Des Moines University College of Osteopathic Medicine",
+  "id": 11,
+  "schoolcolor": "#552d80",
+  "degreetype": "DO",
+  "applicationservice": "AACOMAS",
+  "state": "Iowa",
+  "city": "Des Moines",
+  "imageurl": "/dmsom/dmsom.png",
+  "page": "/school-page/11",
+  "course_requirements": [
+    "Biology",
+    "Physics",
+    "Biochemistry",
+    "General Chemistry",
+    "Organic Chemistry",
+    "English"
+  ],
+  "standardized_tests": [
+    "MCAT"
+  ],
+  "eligible": [
+    "Out of State"
+  ],
+  "median_mcat": 500,
+  "median_gpa": 3.5,
+  "school_type": "Private",
+  "campus_type": "Urban",
+  "dual_degree_programs": [
+    "DO/MS",
+    "DO/MPH",
+    "DO/MSBS",
+    "DO/MHA"
+  ],
+  "admissions_tags": [],
+  "academics_tags": [],
+  "finance": {
+    "os_tuition": 99999,
+    "is_tuition": 99999,
+    "source": [
+      {
+        "note": "",
+        "update_date": {
+          "$date": "2020-12-06T17:37:57.505Z"
+        },
+        "link": ""
+      }
+    ]
+  },
+  "overview": {
+    "mission_statement": "",
+    "description": "",
+    "students": 9999,
+    "header_images": [
+      "feinberg/header1.jpg",
+      "feinberg/header2.jpg",
+      "feinberg/header3.jpg"
+    ]
+  }
+},{
+  "mongoid": {
+    "$oid": "5fa885e52efdc422b862ed35"
+  },
+  "name": "Edward Via College of Osteopathic Medicine - Auburn Campus",
+  "id": 12,
+  "schoolcolor": "#1f3d7b",
+  "degreetype": "DO",
+  "applicationservice": "AACOMAS",
+  "state": "Alabama",
+  "city": "Auburn",
+  "imageurl": "/evacom/evacom.png",
+  "page": "/school-page/12",
+  "course_requirements": [
+    "Biology",
+    "Physics",
+    "Biochemistry",
+    "General Chemistry",
+    "Organic Chemistry",
+    "English"
+  ],
+  "standardized_tests": [
+    "MCAT"
+  ],
+  "eligible": [
+    "Out of State",
+    "International"
+  ],
+  "median_mcat": 500,
+  "median_gpa": 3.5,
+  "school_type": "Private",
+  "campus_type": "Suburban",
+  "dual_degree_programs": [],
+  "admissions_tags": [],
+  "academics_tags": [],
+  "finance": {
+    "os_tuition": 99999,
+    "is_tuition": 99999,
+    "source": [
+      {
+        "note": "",
+        "update_date": {
+          "$date": "2020-12-06T17:37:57.505Z"
+        },
+        "link": ""
+      }
+    ]
+  },
+  "overview": {
+    "mission_statement": "",
+    "description": "",
+    "students": 9999,
+    "header_images": [
+      "feinberg/header1.jpg",
+      "feinberg/header2.jpg",
+      "feinberg/header3.jpg"
+    ]
+  }
+},{
+  "mongoid": {
+    "$oid": "5fa885e52efdc422b862ed36"
+  },
+  "name": "Edward Via College of Osteopathic Medicine - Carolinas Campus",
+  "id": 13,
+  "schoolcolor": "#83003f",
+  "degreetype": "DO",
+  "applicationservice": "AACOMAS",
+  "state": "South Carolina",
+  "city": "Spartansburg",
+  "imageurl": "/evacom/evacom.png",
+  "page": "/school-page/13",
+  "course_requirements": [
+    "Biology",
+    "Physics",
+    "Biochemistry",
+    "General Chemistry",
+    "Organic Chemistry",
+    "English"
+  ],
+  "standardized_tests": [
+    "MCAT"
+  ],
+  "eligible": [
+    "Out of State",
+    "International"
+  ],
+  "median_mcat": 500,
+  "median_gpa": 3.5,
+  "school_type": "Private",
+  "campus_type": "Suburban",
+  "dual_degree_programs": [],
+  "admissions_tags": [],
+  "academics_tags": [],
+  "finance": {
+    "os_tuition": 99999,
+    "is_tuition": 99999,
+    "source": [
+      {
+        "note": "",
+        "update_date": {
+          "$date": "2020-12-06T17:37:57.505Z"
+        },
+        "link": ""
+      }
+    ]
+  },
+  "overview": {
+    "mission_statement": "",
+    "description": "",
+    "students": 9999,
+    "header_images": [
+      "feinberg/header1.jpg",
+      "feinberg/header2.jpg",
+      "feinberg/header3.jpg"
+    ]
+  }
+},{
+  "mongoid": {
+    "$oid": "5fa885e52efdc422b862ed37"
+  },
+  "name": "Edward Via College of Osteopathic Medicine - Louisiana Campus",
+  "id": 14,
+  "schoolcolor": "#c3c3c3",
+  "degreetype": "DO",
+  "applicationservice": "AACOMAS",
+  "state": "Louisiana",
+  "city": "Monroe",
+  "imageurl": "/evlcom/evlcom.gif",
+  "page": "/school-page/14",
+  "course_requirements": [
+    "Biology",
+    "Physics",
+    "Biochemistry",
+    "General Chemistry",
+    "Organic Chemistry",
+    "English"
+  ],
+  "standardized_tests": [
+    "MCAT"
+  ],
+  "eligible": [
+    "Out of State",
+    "International"
+  ],
+  "median_mcat": 500,
+  "median_gpa": 3.5,
+  "school_type": "Private",
+  "campus_type": "Rural",
+  "dual_degree_programs": [],
+  "admissions_tags": [],
+  "academics_tags": [],
+  "finance": {
+    "os_tuition": 99999,
+    "is_tuition": 99999,
+    "source": [
+      {
+        "note": "",
+        "update_date": {
+          "$date": "2020-12-06T17:37:57.505Z"
+        },
+        "link": ""
+      }
+    ]
+  },
+  "overview": {
+    "mission_statement": "",
+    "description": "",
+    "students": 9999,
+    "header_images": [
+      "feinberg/header1.jpg",
+      "feinberg/header2.jpg",
+      "feinberg/header3.jpg"
+    ]
+  }
+},{
+  "mongoid": {
+    "$oid": "5fa885e52efdc422b862ed38"
+  },
+  "name": "Edward Via College of Osteopathic Medicine - Virginia Campus",
+  "id": 15,
+  "schoolcolor": "#83003f",
+  "degreetype": "DO",
+  "applicationservice": "AACOMAS",
+  "state": "Virginia",
+  "city": "Blacksburg",
+  "imageurl": "/vcom/vcom.png",
+  "page": "/school-page/15",
+  "course_requirements": [
+    "Biology",
+    "Physics",
+    "Biochemistry",
+    "General Chemistry",
+    "Organic Chemistry",
+    "English"
+  ],
+  "standardized_tests": [
+    "MCAT"
+  ],
+  "eligible": [
+    "Out of State",
+    "International"
+  ],
+  "median_mcat": 500,
+  "median_gpa": 3.5,
+  "school_type": "Private",
+  "campus_type": "Suburban",
+  "dual_degree_programs": [],
+  "admissions_tags": [],
+  "academics_tags": [],
+  "finance": {
+    "os_tuition": 99999,
+    "is_tuition": 99999,
+    "source": [
+      {
+        "note": "",
+        "update_date": {
+          "$date": "2020-12-06T17:37:57.505Z"
+        },
+        "link": ""
+      }
+    ]
+  },
+  "overview": {
+    "mission_statement": "",
+    "description": "",
+    "students": 9999,
+    "header_images": [
+      "feinberg/header1.jpg",
+      "feinberg/header2.jpg",
+      "feinberg/header3.jpg"
+    ]
+  }
+},{
+  "mongoid": {
+    "$oid": "5fa885e52efdc422b862ed39"
+  },
+  "name": "Idaho College of Osteopathic Medicine",
+  "id": 16,
+  "schoolcolor": "#ff5100",
+  "degreetype": "DO",
+  "applicationservice": "AACOMAS",
+  "state": "Idaho",
+  "city": "Meridian",
+  "imageurl": "/icom/icom.jpg",
+  "page": "/school-page/16",
+  "course_requirements": [
+    "Biology",
+    "Physics",
+    "General Chemistry",
+    "Organic Chemistry",
+    "English"
+  ],
+  "standardized_tests": [
+    "MCAT"
+  ],
+  "eligible": [
+    "Out of State"
+  ],
+  "median_mcat": 500,
+  "median_gpa": 3.5,
+  "school_type": "Private",
+  "campus_type": "Urban",
+  "dual_degree_programs": [],
+  "admissions_tags": [],
+  "academics_tags": [],
+  "finance": {
+    "os_tuition": 99999,
+    "is_tuition": 99999,
+    "source": [
+      {
+        "note": "",
+        "update_date": {
+          "$date": "2020-12-06T17:37:57.505Z"
+        },
+        "link": ""
+      }
+    ]
+  },
+  "overview": {
+    "mission_statement": "",
+    "description": "",
+    "students": 9999,
+    "header_images": [
+      "feinberg/header1.jpg",
+      "feinberg/header2.jpg",
+      "feinberg/header3.jpg"
+    ]
+  }
+},{
+  "mongoid": {
+    "$oid": "5fa885e52efdc422b862ed3a"
+  },
+  "name": "Kansas City University College of Osteopathic Medicine",
+  "id": 17,
+  "schoolcolor": "rgb(85,26,139)",
+  "degreetype": "DO",
+  "applicationservice": "AACOMAS",
+  "state": "Kansas",
+  "city": "Kansas City",
+  "imageurl": "/kcucom/kcucom.png",
+  "page": "/school-page/17",
+  "course_requirements": [
+    "Biology",
+    "Physics",
+    "General Chemistry",
+    "Organic Chemistry",
+    "Biochemistry",
+    "English"
+  ],
+  "standardized_tests": [
+    "MCAT"
+  ],
+  "eligible": [
+    "Out of State",
+    "International"
+  ],
+  "median_mcat": 500,
+  "median_gpa": 3.5,
+  "school_type": "Private",
+  "campus_type": "Urban",
+  "dual_degree_programs": [
+    "DO/MBA",
+    "DO/MA"
+  ],
+  "admissions_tags": [],
+  "academics_tags": [],
+  "finance": {
+    "os_tuition": 99999,
+    "is_tuition": 99999,
+    "source": [
+      {
+        "note": "",
+        "update_date": {
+          "$date": "2020-12-06T17:37:57.505Z"
+        },
+        "link": ""
+      }
+    ]
+  },
+  "overview": {
+    "mission_statement": "",
+    "description": "",
+    "students": 9999,
+    "header_images": [
+      "feinberg/header1.jpg",
+      "feinberg/header2.jpg",
+      "feinberg/header3.jpg"
+    ]
+  }
+},{
+  "mongoid": {
+    "$oid": "5fa885e52efdc422b862ed3b"
+  },
+  "name": "Kentucky College of Osteopathic Medicine",
+  "id": 18,
+  "schoolcolor": "#e2731c",
+  "degreetype": "DO",
+  "applicationservice": "AACOMAS",
+  "state": "Kentucky",
+  "city": "Pikeville",
+  "imageurl": "/kycom/kycom.jpg",
+  "page": "/school-page/18",
+  "course_requirements": [
+    "Biology",
+    "Physics",
+    "General Chemistry",
+    "Organic Chemistry",
+    "English"
+  ],
+  "standardized_tests": [
+    "MCAT"
+  ],
+  "eligible": [
+    "Out of State",
+    "International"
+  ],
+  "median_mcat": 500,
+  "median_gpa": 3.5,
+  "school_type": "Private",
+  "campus_type": "Rural",
+  "dual_degree_programs": [],
+  "admissions_tags": [],
+  "academics_tags": [],
+  "finance": {
+    "os_tuition": 99999,
+    "is_tuition": 99999,
+    "source": [
+      {
+        "note": "",
+        "update_date": {
+          "$date": "2020-12-06T17:37:57.505Z"
+        },
+        "link": ""
+      }
+    ]
+  },
+  "overview": {
+    "mission_statement": "",
+    "description": "",
+    "students": 9999,
+    "header_images": [
+      "feinberg/header1.jpg",
+      "feinberg/header2.jpg",
+      "feinberg/header3.jpg"
+    ]
+  }
+},{
+  "mongoid": {
+    "$oid": "5fa885e52efdc422b862ed3c"
+  },
+  "name": "Lake Erie College of Osteopathic Medicine - Bradenton Campus",
+  "id": 19,
+  "schoolcolor": "rgba(0,82,155,0.8)",
+  "degreetype": "DO",
+  "applicationservice": "AACOMAS",
+  "state": "Florida",
+  "city": "Bradenton",
+  "imageurl": "lecom/logo.png",
+  "page": "/school-page/19",
+  "course_requirements": [
+    "Biology",
+    "General Chemistry",
+    "Organic Chemistry",
+    "Physics",
+    "Mathematics",
+    "English",
+    "Behavioral Sciences"
+  ],
+  "eligible": [
+    "Out of State",
+    "International"
+  ],
+  "standardized_tests": [],
+  "median_mcat": 503,
+  "median_gpa": 3.5,
+  "school_type": "Private",
+  "campus_type": "Suburban",
+  "dual_degree_programs": [],
+  "admissions_tags": [],
+  "academics_tags": [],
+  "finance": {
+    "os_tuition": 99999,
+    "is_tuition": 99999,
+    "source": [
+      {
+        "note": "",
+        "update_date": {
+          "$date": "2020-12-06T17:37:57.505Z"
+        },
+        "link": ""
+      }
+    ]
+  },
+  "overview": {
+    "mission_statement": "",
+    "description": "",
+    "students": 9999,
+    "header_images": [
+      "feinberg/header1.jpg",
+      "feinberg/header2.jpg",
+      "feinberg/header3.jpg"
+    ]
+  }
+},{
+  "mongoid": {
+    "$oid": "5fa885e52efdc422b862ed3d"
+  },
+  "name": "Liberty University College of Osteopathic Medicine",
+  "id": 20,
+  "schoolcolor": "#121e3f",
+  "degreetype": "DO",
+  "applicationservice": "AACOMAS",
+  "state": "Virginia",
+  "city": "Lynchburg",
+  "imageurl": "lecom/logo.png",
+  "page": "/school-page/20",
+  "course_requirements": [
+    "Biology",
+    "General Chemistry",
+    "Organic Chemistry",
+    "Physics",
+    "English",
+    "Biochemistry"
+  ],
+  "eligible": [
+    "Out of State",
+    "International"
+  ],
+  "standardized_tests": [
+    "MCAT"
+  ],
+  "median_mcat": 503,
+  "median_gpa": 3.5,
+  "school_type": "Private",
+  "campus_type": "Rural",
+  "dual_degree_programs": [],
+  "admissions_tags": [],
+  "academics_tags": [],
+  "finance": {
+    "os_tuition": 99999,
+    "is_tuition": 99999,
+    "source": [
+      {
+        "note": "",
+        "update_date": {
+          "$date": "2020-12-06T17:37:57.505Z"
+        },
+        "link": ""
+      }
+    ]
+  },
+  "overview": {
+    "mission_statement": "",
+    "description": "",
+    "students": 9999,
+    "header_images": [
+      "feinberg/header1.jpg",
+      "feinberg/header2.jpg",
+      "feinberg/header3.jpg"
+    ]
+  }
+},{
+  "mongoid": {
+    "$oid": "5fa885e52efdc422b862ed3e"
+  },
+  "name": "Lincoln Memorial University-DeBusk College of Osteopathic Medicine",
+  "id": 21,
+  "schoolcolor": "#21396c",
+  "degreetype": "DO",
+  "applicationservice": "AACOMAS",
+  "state": "Tennessee",
+  "city": "Harrogate",
+  "imageurl": "lmucom/lmucom.jpg",
+  "page": "/school-page/21",
+  "course_requirements": [
+    "Biology",
+    "General Chemistry",
+    "Organic Chemistry",
+    "Physics",
+    "English"
+  ],
+  "eligible": [
+    "Out of State",
+    "International"
+  ],
+  "standardized_tests": [
+    "MCAT"
+  ],
+  "median_mcat": 503,
+  "median_gpa": 3.5,
+  "school_type": "Private",
+  "campus_type": "Rural",
+  "dual_degree_programs": [
+    "DO/MS",
+    "DO/MBA"
+  ],
+  "admissions_tags": [],
+  "academics_tags": [],
+  "finance": {
+    "os_tuition": 99999,
+    "is_tuition": 99999,
+    "source": [
+      {
+        "note": "",
+        "update_date": {
+          "$date": "2020-12-06T17:37:57.505Z"
+        },
+        "link": ""
+      }
+    ]
+  },
+  "overview": {
+    "mission_statement": "",
+    "description": "",
+    "students": 9999,
+    "header_images": [
+      "feinberg/header1.jpg",
+      "feinberg/header2.jpg",
+      "feinberg/header3.jpg"
+    ]
+  }
+},{
+  "mongoid": {
+    "$oid": "5fa885e52efdc422b862ed3f"
+  },
+  "name": "Marian University College of Osteopathic Medicine",
+  "id": 22,
+  "schoolcolor": "#031e51",
+  "degreetype": "DO",
+  "applicationservice": "AACOMAS",
+  "state": "Indiana",
+  "city": "Indianapolis",
+  "imageurl": "lmucom/lmucom.jpg",
+  "page": "/school-page/22",
+  "course_requirements": [
+    "Biology",
+    "General Chemistry",
+    "Organic Chemistry",
+    "Physics",
+    "English"
+  ],
+  "eligible": [
+    "Out of State",
+    "International"
+  ],
+  "standardized_tests": [
+    "MCAT"
+  ],
+  "median_mcat": 503,
+  "median_gpa": 3.5,
+  "school_type": "Private",
+  "campus_type": "Rural",
+  "dual_degree_programs": [
+    "DO/MS",
+    "DO/MBA"
+  ],
+  "admissions_tags": [],
+  "academics_tags": [],
+  "finance": {
+    "os_tuition": 99999,
+    "is_tuition": 99999,
+    "source": [
+      {
+        "note": "",
+        "update_date": {
+          "$date": "2020-12-06T17:37:57.505Z"
+        },
+        "link": ""
+      }
+    ]
+  },
+  "overview": {
+    "mission_statement": "",
+    "description": "",
+    "students": 9999,
+    "header_images": [
+      "feinberg/header1.jpg",
+      "feinberg/header2.jpg",
+      "feinberg/header3.jpg"
+    ]
+  }
+},{
+  "mongoid": {
+    "$oid": "5fa885e52efdc422b862ed40"
+  },
+  "name": "Michigan State University College of Osteopathic Medicine",
+  "id": 23,
+  "schoolcolor": "#18453b",
+  "degreetype": "DO",
+  "applicationservice": "AACOMAS",
+  "state": "Michigan",
+  "city": "Detroit",
+  "imageurl": "msucom/msucom.png",
+  "page": "/school-page/23",
+  "course_requirements": [
+    "Biology",
+    "General Chemistry",
+    "Organic Chemistry",
+    "Biochemistry",
+    "English"
+  ],
+  "eligible": [
+    "Out of State",
+    "International"
+  ],
+  "standardized_tests": [
+    "MCAT"
+  ],
+  "median_mcat": 503,
+  "median_gpa": 3.5,
+  "school_type": "Public",
+  "campus_type": "Urban",
+  "dual_degree_programs": [
+    "DO/PhD",
+    "DO/MPH",
+    "DO/MBA"
+  ],
+  "admissions_tags": [],
+  "academics_tags": [],
+  "finance": {
+    "os_tuition": 99999,
+    "is_tuition": 99999,
+    "source": [
+      {
+        "note": "",
+        "update_date": {
+          "$date": "2020-12-06T17:37:57.505Z"
+        },
+        "link": ""
+      }
+    ]
+  },
+  "overview": {
+    "mission_statement": "",
+    "description": "",
+    "students": 9999,
+    "header_images": [
+      "feinberg/header1.jpg",
+      "feinberg/header2.jpg",
+      "feinberg/header3.jpg"
+    ]
+  }
+},{
+  "mongoid": {
+    "$oid": "5fa885e52efdc422b862ed41"
+  },
+  "name": "New York Institute of Technology College of Osteopathic Medicine",
+  "id": 24,
+  "schoolcolor": "#f6a704",
+  "degreetype": "DO",
+  "applicationservice": "AACOMAS",
+  "state": "New York",
+  "city": "Old Westbury",
+  "imageurl": "nyitcom/nyitcom.jpg",
+  "page": "/school-page/24",
+  "course_requirements": [
+    "Biology",
+    "General Chemistry",
+    "Organic Chemistry",
+    "English"
+  ],
+  "eligible": [
+    "Out of State"
+  ],
+  "standardized_tests": [
+    "MCAT"
+  ],
+  "median_mcat": 503,
+  "median_gpa": 3.5,
+  "school_type": "Private",
+  "campus_type": "Urban",
+  "dual_degree_programs": [
+    "DO/PhD",
+    "DO/MS",
+    "DO/MPH",
+    "DO/MBA"
+  ],
+  "admissions_tags": [],
+  "academics_tags": [],
+  "finance": {
+    "os_tuition": 99999,
+    "is_tuition": 99999,
+    "source": [
+      {
+        "note": "",
+        "update_date": {
+          "$date": "2020-12-06T17:37:57.505Z"
+        },
+        "link": ""
+      }
+    ]
+  },
+  "overview": {
+    "mission_statement": "",
+    "description": "",
+    "students": 9999,
+    "header_images": [
+      "feinberg/header1.jpg",
+      "feinberg/header2.jpg",
+      "feinberg/header3.jpg"
+    ]
+  }
+},{
+  "mongoid": {
+    "$oid": "5fa885e52efdc422b862ed42"
+  },
+  "name": "Noorda College of Osteopathic Medicine",
+  "id": 25,
+  "schoolcolor": "#b8664b",
+  "degreetype": "DO",
+  "applicationservice": "AACOMAS",
+  "state": "Utah",
+  "city": "Provo",
+  "imageurl": "noocom/noocom.png",
+  "page": "/school-page/25",
+  "course_requirements": [
+    "Biology",
+    "General Chemistry",
+    "Organic Chemistry",
+    "English",
+    "Mathematics",
+    "Statistics"
+  ],
+  "eligible": [
+    "Out of State"
+  ],
+  "standardized_tests": [
+    "MCAT"
+  ],
+  "median_mcat": 503,
+  "median_gpa": 3.5,
+  "school_type": "Private",
+  "campus_type": "Suburban",
+  "dual_degree_programs": [],
+  "admissions_tags": [],
+  "academics_tags": [],
+  "finance": {
+    "os_tuition": 99999,
+    "is_tuition": 99999,
+    "source": [
+      {
+        "note": "",
+        "update_date": {
+          "$date": "2020-12-06T17:37:57.505Z"
+        },
+        "link": ""
+      }
+    ]
+  },
+  "overview": {
+    "mission_statement": "",
+    "description": "",
+    "students": 9999,
+    "header_images": [
+      "feinberg/header1.jpg",
+      "feinberg/header2.jpg",
+      "feinberg/header3.jpg"
+    ]
+  }
+},{
+  "mongoid": {
+    "$oid": "5fa885e52efdc422b862ed43"
+  },
+  "name": "Noorda College of Osteopathic Medicine",
+  "id": 25,
+  "schoolcolor": "#b8664b",
+  "degreetype": "DO",
+  "applicationservice": "AACOMAS",
+  "state": "Utah",
+  "city": "Provo",
+  "imageurl": "noocom/noocom.png",
+  "page": "/school-page/25",
+  "course_requirements": [
+    "Biology",
+    "General Chemistry",
+    "Organic Chemistry",
+    "English",
+    "Mathematics",
+    "Statistics"
+  ],
+  "eligible": [
+    "Out of State"
+  ],
+  "standardized_tests": [
+    "MCAT"
+  ],
+  "median_mcat": 503,
+  "median_gpa": 3.5,
+  "school_type": "Private",
+  "campus_type": "Suburban",
+  "dual_degree_programs": [],
+  "admissions_tags": [],
+  "academics_tags": [],
+  "finance": {
+    "os_tuition": 99999,
+    "is_tuition": 99999,
+    "source": [
+      {
+        "note": "",
+        "update_date": {
+          "$date": "2020-12-06T17:37:57.505Z"
+        },
+        "link": ""
+      }
+    ]
+  },
+  "overview": {
+    "mission_statement": "",
+    "description": "",
+    "students": 9999,
+    "header_images": [
+      "feinberg/header1.jpg",
+      "feinberg/header2.jpg",
+      "feinberg/header3.jpg"
+    ]
+  }
+},{
+  "mongoid": {
+    "$oid": "5fa885e52efdc422b862ed44"
+  },
+  "name": "Nova Southeastern University College of Osteopathic Medicine",
+  "id": 26,
+  "schoolcolor": "#0070cd",
+  "degreetype": "DO",
+  "applicationservice": "AACOMAS",
+  "state": "Florida",
+  "city": "Fort Lauderdale",
+  "imageurl": "nova/nova.png",
+  "page": "/school-page/26",
+  "course_requirements": [
+    "Biology",
+    "General Chemistry",
+    "Organic Chemistry",
+    "Biochemistry",
+    "English"
+  ],
+  "eligible": [
+    "Out of State"
+  ],
+  "standardized_tests": [
+    "MCAT"
+  ],
+  "median_mcat": 503,
+  "median_gpa": 3.5,
+  "school_type": "Private",
+  "campus_type": "Suburban",
+  "dual_degree_programs": [
+    "DO/MBA",
+    "DO/MPH",
+    "DO/MS",
+    "DO/JD"
+  ],
+  "admissions_tags": [],
+  "academics_tags": [],
+  "finance": {
+    "os_tuition": 99999,
+    "is_tuition": 99999,
+    "source": [
+      {
+        "note": "",
+        "update_date": {
+          "$date": "2020-12-06T17:37:57.505Z"
+        },
+        "link": ""
+      }
+    ]
+  },
+  "overview": {
+    "mission_statement": "",
+    "description": "",
+    "students": 9999,
+    "header_images": [
+      "feinberg/header1.jpg",
+      "feinberg/header2.jpg",
+      "feinberg/header3.jpg"
+    ]
+  }
+},{
+  "mongoid": {
+    "$oid": "5fa885e52efdc422b862ed45"
+  },
+  "name": "Ohio University Heritage College of Osteopathic Medicine",
+  "id": 27,
+  "schoolcolor": "#0070cd",
+  "degreetype": "DO",
+  "applicationservice": "AACOMAS",
+  "state": "Florida",
+  "city": "Fort Lauderdale",
+  "imageurl": "oucom/oucom.jpg",
+  "page": "/school-page/27",
+  "course_requirements": [
+    "Biology",
+    "General Chemistry",
+    "Organic Chemistry",
+    "Behavioral Sciences",
+    "English"
+  ],
+  "eligible": [
+    "Out of State"
+  ],
+  "standardized_tests": [
+    "MCAT"
+  ],
+  "median_mcat": 503,
+  "median_gpa": 3.5,
+  "school_type": "Public",
+  "campus_type": "Urban",
+  "dual_degree_programs": [
+    "DO/MBA",
+    "DO/MPH",
+    "DO/BME",
+    "DO/MGH",
+    "DO/PhD"
+  ],
+  "admissions_tags": [],
+  "academics_tags": [],
+  "finance": {
+    "os_tuition": 99999,
+    "is_tuition": 99999,
+    "source": [
+      {
+        "note": "",
+        "update_date": {
+          "$date": "2020-12-06T17:37:57.505Z"
+        },
+        "link": ""
+      }
+    ]
+  },
+  "overview": {
+    "mission_statement": "",
+    "description": "",
+    "students": 9999,
+    "header_images": [
+      "feinberg/header1.jpg",
+      "feinberg/header2.jpg",
+      "feinberg/header3.jpg"
+    ]
+  }
+},{
+  "mongoid": {
+    "$oid": "5fa885e52efdc422b862ed46"
+  },
+  "name": "Oklahoma State University College of Osteopathic Medicine",
+  "id": 28,
+  "schoolcolor": "#FE5C00",
+  "degreetype": "DO",
+  "applicationservice": "AACOMAS",
+  "state": "Oklahoma",
+  "city": "Tulsa",
+  "imageurl": "osucom/osucom.jpg",
+  "page": "/school-page/27",
+  "course_requirements": [
+    "Biology",
+    "General Chemistry",
+    "Organic Chemistry",
+    "English"
+  ],
+  "eligible": [
+    "Out of State"
+  ],
+  "standardized_tests": [
+    "MCAT",
+    "CASPER"
+  ],
+  "median_mcat": 503,
+  "median_gpa": 3.5,
+  "school_type": "Public",
+  "campus_type": "Urban",
+  "dual_degree_programs": [
+    "DO/PhD",
+    "DO/MPH",
+    "DO/MSBS",
+    "DO/MSHCA",
+    "DO/PhD"
+  ],
+  "admissions_tags": [],
+  "academics_tags": [],
+  "finance": {
+    "os_tuition": 99999,
+    "is_tuition": 99999,
+    "source": [
+      {
+        "note": "",
+        "update_date": {
+          "$date": "2020-12-06T17:37:57.505Z"
+        },
+        "link": ""
+      }
+    ]
+  },
+  "overview": {
+    "mission_statement": "",
+    "description": "",
+    "students": 9999,
+    "header_images": [
+      "feinberg/header1.jpg",
+      "feinberg/header2.jpg",
+      "feinberg/header3.jpg"
+    ]
+  }
+},{
+  "mongoid": {
+    "$oid": "5fa885e52efdc422b862ed47"
+  },
+  "name": "Pacific Northwest University of Health Sciences College of Osteopathic Medicine",
+  "id": 29,
+  "schoolcolor": "#7DA830",
+  "degreetype": "DO",
+  "applicationservice": "AACOMAS",
+  "state": "Washington",
+  "city": "Yakima",
+  "imageurl": "pnwucom/pnwucom.jpg",
+  "page": "/school-page/30",
+  "course_requirements": [
+    "Biology",
+    "General Chemistry",
+    "Organic Chemistry",
+    "English"
+  ],
+  "eligible": [
+    "Out of State"
+  ],
+  "standardized_tests": [
+    "MCAT"
+  ],
+  "median_mcat": 503,
+  "median_gpa": 3.5,
+  "school_type": "Private",
+  "campus_type": "Suburban",
+  "dual_degree_programs": [],
+  "admissions_tags": [],
+  "academics_tags": [],
+  "finance": {
+    "os_tuition": 99999,
+    "is_tuition": 99999,
+    "source": [
+      {
+        "note": "",
+        "update_date": {
+          "$date": "2020-12-06T17:37:57.505Z"
+        },
+        "link": ""
+      }
+    ]
+  },
+  "overview": {
+    "mission_statement": "",
+    "description": "",
+    "students": 9999,
+    "header_images": [
+      "feinberg/header1.jpg",
+      "feinberg/header2.jpg",
+      "feinberg/header3.jpg"
+    ]
+  }
+},{
+  "mongoid": {
+    "$oid": "5fa885e52efdc422b862ed48"
+  },
+  "name": "Philadelphia College of Osteopathic Medicine",
+  "id": 30,
+  "schoolcolor": "#1a203a",
+  "degreetype": "DO",
+  "applicationservice": "AACOMAS",
+  "state": "Pennsylvania",
+  "city": "Philadelphia",
+  "imageurl": "pcom/pcom.gif",
+  "page": "/school-page/30",
+  "course_requirements": [
+    "Biology",
+    "General Chemistry",
+    "Organic Chemistry",
+    "English",
+    "Biochemistry"
+  ],
+  "eligible": [
+    "Out of State"
+  ],
+  "standardized_tests": [
+    "MCAT"
+  ],
+  "median_mcat": 503,
+  "median_gpa": 3.5,
+  "school_type": "Private",
+  "campus_type": "Urban",
+  "dual_degree_programs": [
+    "DO/PhD",
+    "DO/MBA",
+    "DO/MS",
+    "DO/MPH"
+  ],
+  "admissions_tags": [],
+  "academics_tags": [],
+  "finance": {
+    "os_tuition": 99999,
+    "is_tuition": 99999,
+    "source": [
+      {
+        "note": "",
+        "update_date": {
+          "$date": "2020-12-06T17:37:57.505Z"
+        },
+        "link": ""
+      }
+    ]
+  },
+  "overview": {
+    "mission_statement": "",
+    "description": "",
+    "students": 9999,
+    "header_images": [
+      "feinberg/header1.jpg",
+      "feinberg/header2.jpg",
+      "feinberg/header3.jpg"
+    ]
+  }
+},{
+  "mongoid": {
+    "$oid": "5fa885e52efdc422b862ed49"
+  },
+  "name": "Philadelphia College of Osteopathic Medicine - Georgia",
+  "id": 31,
+  "schoolcolor": "#1a203a",
+  "degreetype": "DO",
+  "applicationservice": "AACOMAS",
+  "state": "Georgia",
+  "city": "Suwanee",
+  "imageurl": "pcom/pcom.gif",
+  "page": "/school-page/31",
+  "course_requirements": [
+    "Biology",
+    "General Chemistry",
+    "Organic Chemistry",
+    "English",
+    "Biochemistry"
+  ],
+  "eligible": [
+    "Out of State"
+  ],
+  "standardized_tests": [
+    "MCAT"
+  ],
+  "median_mcat": 503,
+  "median_gpa": 3.5,
+  "school_type": "Private",
+  "campus_type": "Suburban",
+  "dual_degree_programs": [
+    "DO/MBA"
+  ],
+  "admissions_tags": [],
+  "academics_tags": [],
+  "finance": {
+    "os_tuition": 99999,
+    "is_tuition": 99999,
+    "source": [
+      {
+        "note": "",
+        "update_date": {
+          "$date": "2020-12-06T17:37:57.505Z"
+        },
+        "link": ""
+      }
+    ]
+  },
+  "overview": {
+    "mission_statement": "",
+    "description": "",
+    "students": 9999,
+    "header_images": [
+      "feinberg/header1.jpg",
+      "feinberg/header2.jpg",
+      "feinberg/header3.jpg"
+    ]
+  }
+},{
+  "mongoid": {
+    "$oid": "5fa885e52efdc422b862ed4a"
+  },
+  "name": "Rocky Vista University College of Osteopathic Medicine",
+  "id": 32,
+  "schoolcolor": "#b30838",
+  "degreetype": "DO",
+  "applicationservice": "AACOMAS",
+  "state": "Colorado",
+  "city": "Parker",
+  "imageurl": "pcom/pcom.gif",
+  "page": "/school-page/32",
+  "course_requirements": [
+    "Biology",
+    "General Chemistry",
+    "Organic Chemistry",
+    "Behavioral Sciences",
+    "English",
+    "Biochemistry"
+  ],
+  "eligible": [
+    "Out of State"
+  ],
+  "standardized_tests": [
+    "MCAT",
+    "CASPER"
+  ],
+  "median_mcat": 503,
+  "median_gpa": 3.5,
+  "school_type": "Private",
+  "campus_type": "Suburban",
+  "dual_degree_programs": [
+    "DO/MBA"
+  ],
+  "admissions_tags": [],
+  "academics_tags": [],
+  "finance": {
+    "os_tuition": 99999,
+    "is_tuition": 99999,
+    "source": [
+      {
+        "note": "",
+        "update_date": {
+          "$date": "2020-12-06T17:37:57.505Z"
+        },
+        "link": ""
+      }
+    ]
+  },
+  "overview": {
+    "mission_statement": "",
+    "description": "",
+    "students": 9999,
+    "header_images": [
+      "feinberg/header1.jpg",
+      "feinberg/header2.jpg",
+      "feinberg/header3.jpg"
+    ]
+  }
+},{
+  "mongoid": {
+    "$oid": "5fa885e52efdc422b862ed4b"
+  },
+  "name": "Rowan University School of Osteopathic Medicine",
+  "id": 33,
+  "schoolcolor": "#5B1300",
+  "degreetype": "DO",
+  "applicationservice": "AACOMAS",
+  "state": "New Jersey",
+  "city": "Stratford",
+  "imageurl": "rowansom/rowansom.png",
+  "page": "/school-page/33",
+  "course_requirements": [
+    "Biology",
+    "General Chemistry",
+    "Organic Chemistry",
+    "Behavioral Sciences",
+    "English",
+    "Biochemistry",
+    "Mathematics",
+    "Statistics"
+  ],
+  "eligible": [
+    "Out of State",
+    "International"
+  ],
+  "standardized_tests": [
+    "MCAT"
+  ],
+  "median_mcat": 503,
+  "median_gpa": 3.5,
+  "school_type": "Public",
+  "campus_type": "Suburban",
+  "dual_degree_programs": [
+    "DO/PhD",
+    "DO/MBA",
+    "DO/MPH",
+    "DO/JD"
+  ],
+  "admissions_tags": [
+    "Early Decision Program"
+  ],
+  "academics_tags": [],
+  "finance": {
+    "os_tuition": 99999,
+    "is_tuition": 99999,
+    "source": [
+      {
+        "note": "",
+        "update_date": {
+          "$date": "2020-12-06T17:37:57.505Z"
+        },
+        "link": ""
+      }
+    ]
+  },
+  "overview": {
+    "mission_statement": "",
+    "description": "",
+    "students": 9999,
+    "header_images": [
+      "feinberg/header1.jpg",
+      "feinberg/header2.jpg",
+      "feinberg/header3.jpg"
+    ]
+  }
+},{
+  "mongoid": {
+    "$oid": "5fa885e52efdc422b862ed4c"
+  },
+  "name": "Sam Houston State University College of Osteopathic Medicine",
+  "id": 34,
+  "schoolcolor": "#FEC233",
+  "degreetype": "DO",
+  "applicationservice": "TMDSAS",
+  "state": "Texas",
+  "city": "Conroe",
+  "imageurl": "shsucom/shsucom.png",
+  "page": "/school-page/34",
+  "course_requirements": [
+    "Biology",
+    "General Chemistry",
+    "Organic Chemistry",
+    "English",
+    "Mathematics",
+    "Statistics"
+  ],
+  "eligible": [
+    "Out of State",
+    "International"
+  ],
+  "standardized_tests": [
+    "MCAT",
+    "CASPER"
+  ],
+  "median_mcat": 503,
+  "median_gpa": 3.5,
+  "school_type": "Public",
+  "campus_type": "Suburban",
+  "dual_degree_programs": [],
+  "admissions_tags": [],
+  "academics_tags": [],
+  "finance": {
+    "os_tuition": 99999,
+    "is_tuition": 99999,
+    "source": [
+      {
+        "note": "",
+        "update_date": {
+          "$date": "2020-12-06T17:37:57.505Z"
+        },
+        "link": ""
+      }
+    ]
+  },
+  "overview": {
+    "mission_statement": "",
+    "description": "",
+    "students": 9999,
+    "header_images": [
+      "feinberg/header1.jpg",
+      "feinberg/header2.jpg",
+      "feinberg/header3.jpg"
+    ]
+  }
+},{
+  "mongoid": {
+    "$oid": "5fa885e52efdc422b862ed4d"
+  },
+  "name": "Touro College of Osteopathic Medicine",
+  "id": 35,
+  "schoolcolor": "#172c49",
+  "degreetype": "DO",
+  "applicationservice": "AACOMAS",
+  "state": "New York",
+  "city": "New York City",
+  "imageurl": "tourony/tourony.png",
+  "page": "/school-page/35",
+  "course_requirements": [
+    "Biology",
+    "General Chemistry",
+    "Organic Chemistry",
+    "English",
+    "Mathematics",
+    "Behavioral Sciences"
+  ],
+  "eligible": [
+    "Out of State",
+    "International"
+  ],
+  "standardized_tests": [
+    "MCAT",
+    "CASPER"
+  ],
+  "median_mcat": 503,
+  "median_gpa": 3.5,
+  "school_type": "Private",
+  "campus_type": "Urban",
+  "dual_degree_programs": [],
+  "admissions_tags": [],
+  "academics_tags": [],
+  "finance": {
+    "os_tuition": 99999,
+    "is_tuition": 99999,
+    "source": [
+      {
+        "note": "",
+        "update_date": {
+          "$date": "2020-12-06T17:37:57.505Z"
+        },
+        "link": ""
+      }
+    ]
+  },
+  "overview": {
+    "mission_statement": "",
+    "description": "",
+    "students": 9999,
+    "header_images": [
+      "feinberg/header1.jpg",
+      "feinberg/header2.jpg",
+      "feinberg/header3.jpg"
+    ]
+  }
+},{
+  "mongoid": {
+    "$oid": "5fa885e52efdc422b862ed4e"
+  },
+  "name": "Touro University California College of Osteopathic Medicine",
+  "id": 36,
+  "schoolcolor": "#094457",
+  "degreetype": "DO",
+  "applicationservice": "AACOMAS",
+  "state": "California",
+  "city": "Vallejo",
+  "imageurl": "touroca/touroca.png",
+  "page": "/school-page/36",
+  "course_requirements": [
+    "Biology",
+    "General Chemistry",
+    "Organic Chemistry",
+    "English",
+    "Mathematics",
+    "Behavioral Sciences"
+  ],
+  "eligible": [
+    "Out of State"
+  ],
+  "standardized_tests": [
+    "MCAT",
+    "CASPER"
+  ],
+  "median_mcat": 503,
+  "median_gpa": 3.5,
+  "school_type": "Private",
+  "campus_type": "Suburban",
+  "dual_degree_programs": [
+    "DO/MPH"
+  ],
+  "admissions_tags": [],
+  "academics_tags": [],
+  "finance": {
+    "os_tuition": 99999,
+    "is_tuition": 99999,
+    "source": [
+      {
+        "note": "",
+        "update_date": {
+          "$date": "2020-12-06T17:37:57.505Z"
+        },
+        "link": ""
+      }
+    ]
+  },
+  "overview": {
+    "mission_statement": "",
+    "description": "",
+    "students": 9999,
+    "header_images": [
+      "feinberg/header1.jpg",
+      "feinberg/header2.jpg",
+      "feinberg/header3.jpg"
+    ]
+  }
+},{
+  "mongoid": {
+    "$oid": "5fa885e52efdc422b862ed4f"
+  },
+  "name": "Touro University Nevada College of Osteopathic Medicine",
+  "id": 37,
+  "schoolcolor": "#004f71",
+  "degreetype": "DO",
+  "applicationservice": "AACOMAS",
+  "state": "Nevada",
+  "city": "Henderson",
+  "imageurl": "touronv/touronv.png",
+  "page": "/school-page/37",
+  "course_requirements": [
+    "Biology",
+    "General Chemistry",
+    "Organic Chemistry",
+    "English",
+    "Mathematics",
+    "Behavioral Sciences"
+  ],
+  "eligible": [
+    "Out of State"
+  ],
+  "standardized_tests": [
+    "MCAT",
+    "CASPER"
+  ],
+  "median_mcat": 503,
+  "median_gpa": 3.5,
+  "school_type": "Private",
+  "campus_type": "Suburban",
+  "dual_degree_programs": [
+    "DO/MPH"
+  ],
+  "admissions_tags": [],
+  "academics_tags": [],
+  "finance": {
+    "os_tuition": 99999,
+    "is_tuition": 99999,
+    "source": [
+      {
+        "note": "",
+        "update_date": {
+          "$date": "2020-12-06T17:37:57.505Z"
+        },
+        "link": ""
+      }
+    ]
+  },
+  "overview": {
+    "mission_statement": "",
+    "description": "",
+    "students": 9999,
+    "header_images": [
+      "feinberg/header1.jpg",
+      "feinberg/header2.jpg",
+      "feinberg/header3.jpg"
+    ]
+  }
+},{
+  "mongoid": {
+    "$oid": "5fa885e52efdc422b862ed50"
+  },
+  "name": "University of New England College of Osteopathic Medicine",
+  "id": 38,
+  "schoolcolor": "#163e70",
+  "degreetype": "DO",
+  "applicationservice": "AACOMAS",
+  "state": "Maine",
+  "city": "Biddeford",
+  "imageurl": "unecom/unecom.png",
+  "page": "/school-page/38",
+  "course_requirements": [
+    "Biology",
+    "Biochemistry",
+    "General Chemistry",
+    "Organic Chemistry",
+    "English",
+    "Behavioral Sciences"
+  ],
+  "eligible": [
+    "Out of State",
+    "International"
+  ],
+  "standardized_tests": [
+    "MCAT"
+  ],
+  "median_mcat": 503,
+  "median_gpa": 3.5,
+  "school_type": "Private",
+  "campus_type": "Suburban",
+  "dual_degree_programs": [
+    "DO/MPH"
+  ],
+  "admissions_tags": [],
+  "academics_tags": [],
+  "finance": {
+    "os_tuition": 99999,
+    "is_tuition": 99999,
+    "source": [
+      {
+        "note": "",
+        "update_date": {
+          "$date": "2020-12-06T17:37:57.505Z"
+        },
+        "link": ""
+      }
+    ]
+  },
+  "overview": {
+    "mission_statement": "",
+    "description": "",
+    "students": 9999,
+    "header_images": [
+      "feinberg/header1.jpg",
+      "feinberg/header2.jpg",
+      "feinberg/header3.jpg"
+    ]
+  }
+},{
+  "mongoid": {
+    "$oid": "5fa885e52efdc422b862ed51"
+  },
+  "name": "University of North Texas Health Science Center - Texas College of Osteopathic Medicine ",
+  "id": 39,
+  "schoolcolor": "#006a31",
+  "degreetype": "DO",
+  "applicationservice": "TMDSAS",
+  "state": "Texas",
+  "city": "Fort Worth",
+  "imageurl": "untcom/untcom.png",
+  "page": "/school-page/39",
+  "course_requirements": [
+    "Biology",
+    "General Chemistry",
+    "Organic Chemistry",
+    "English",
+    "Mathematics"
+  ],
+  "eligible": [
+    "Out of State",
+    "International"
+  ],
+  "standardized_tests": [
+    "MCAT"
+  ],
+  "median_mcat": 503,
+  "median_gpa": 3.5,
+  "school_type": "Public",
+  "campus_type": "Suburban",
+  "dual_degree_programs": [
+    "DO/MPH",
+    "DO/MS",
+    "DO/PhD"
+  ],
+  "admissions_tags": [
+    "Early Decision Program"
+  ],
+  "academics_tags": [],
+  "finance": {
+    "os_tuition": 99999,
+    "is_tuition": 99999,
+    "source": [
+      {
+        "note": "",
+        "update_date": {
+          "$date": "2020-12-06T17:37:57.505Z"
+        },
+        "link": ""
+      }
+    ]
+  },
+  "overview": {
+    "mission_statement": "",
+    "description": "",
+    "students": 9999,
+    "header_images": [
+      "feinberg/header1.jpg",
+      "feinberg/header2.jpg",
+      "feinberg/header3.jpg"
+    ]
+  }
+},{
+  "mongoid": {
+    "$oid": "5fa885e52efdc422b862ed52"
+  },
+  "name": "University of the Incarnate Word School of Osteopathic Medicine",
+  "id": 40,
+  "schoolcolor": "#163e70",
+  "degreetype": "DO",
+  "applicationservice": "AACOMAS",
+  "state": "Texas",
+  "city": "San Antonio",
+  "imageurl": "unecom/unecom.png",
+  "page": "/school-page/38",
+  "course_requirements": [
+    "Biology",
+    "General Chemistry",
+    "Organic Chemistry",
+    "English",
+    "Behavioral Sciences"
+  ],
+  "eligible": [
+    "Out of State"
+  ],
+  "standardized_tests": [
+    "MCAT"
+  ],
+  "median_mcat": 503,
+  "median_gpa": 3.5,
+  "school_type": "Private",
+  "campus_type": "Urban",
+  "dual_degree_programs": [
+    "DO/MPH"
+  ],
+  "admissions_tags": [],
+  "academics_tags": [],
+  "finance": {
+    "os_tuition": 99999,
+    "is_tuition": 99999,
+    "source": [
+      {
+        "note": "",
+        "update_date": {
+          "$date": "2020-12-06T17:37:57.505Z"
+        },
+        "link": ""
+      }
+    ]
+  },
+  "overview": {
+    "mission_statement": "",
+    "description": "",
+    "students": 9999,
+    "header_images": [
+      "feinberg/header1.jpg",
+      "feinberg/header2.jpg",
+      "feinberg/header3.jpg"
+    ]
+  }
+},{
+  "mongoid": {
+    "$oid": "5fa885e52efdc422b862ed53"
+  },
+  "name": "University of the Incarnate Word School of Osteopathic Medicine",
+  "id": 40,
+  "schoolcolor": "#be2120",
+  "degreetype": "DO",
+  "applicationservice": "AACOMAS",
+  "state": "Texas",
+  "city": "San Antonio",
+  "imageurl": "unecom/unecom.png",
+  "page": "/school-page/40",
+  "course_requirements": [
+    "Biology",
+    "General Chemistry",
+    "Organic Chemistry",
+    "English",
+    "Behavioral Sciences"
+  ],
+  "eligible": [
+    "Out of State"
+  ],
+  "standardized_tests": [
+    "MCAT"
+  ],
+  "median_mcat": 503,
+  "median_gpa": 3.5,
+  "school_type": "Private",
+  "campus_type": "Urban",
+  "dual_degree_programs": [
+    "DO/MPH"
+  ],
+  "admissions_tags": [],
+  "academics_tags": [],
+  "finance": {
+    "os_tuition": 99999,
+    "is_tuition": 99999,
+    "source": [
+      {
+        "note": "",
+        "update_date": {
+          "$date": "2020-12-06T17:37:57.505Z"
+        },
+        "link": ""
+      }
+    ]
+  },
+  "overview": {
+    "mission_statement": "",
+    "description": "",
+    "students": 9999,
+    "header_images": [
+      "feinberg/header1.jpg",
+      "feinberg/header2.jpg",
+      "feinberg/header3.jpg"
+    ]
+  }
+},{
+  "mongoid": {
+    "$oid": "5fa885e52efdc422b862ed54"
+  },
+  "name": "West Virginia School of Osteopathic Medicine",
+  "id": 41,
+  "schoolcolor": "#eebf56",
+  "degreetype": "DO",
+  "applicationservice": "AACOMAS",
+  "state": "West Virginia",
+  "city": "Lewisburg",
+  "imageurl": "uvsom/uvsom.jpg",
+  "page": "/school-page/41",
+  "course_requirements": [
+    "Biology",
+    "Biochemistry",
+    "General Chemistry",
+    "English",
+    "Behavioral Sciences"
+  ],
+  "eligible": [
+    "Out of State"
+  ],
+  "standardized_tests": [
+    "MCAT"
+  ],
+  "median_mcat": 503,
+  "median_gpa": 3.5,
+  "school_type": "Public",
+  "campus_type": "Rural",
+  "dual_degree_programs": [
+    "DO/MPH"
+  ],
+  "admissions_tags": [],
+  "academics_tags": [],
+  "finance": {
+    "os_tuition": 99999,
+    "is_tuition": 99999,
+    "source": [
+      {
+        "note": "",
+        "update_date": {
+          "$date": "2020-12-06T17:37:57.505Z"
+        },
+        "link": ""
+      }
+    ]
+  },
+  "overview": {
+    "mission_statement": "",
+    "description": "",
+    "students": 9999,
+    "header_images": [
+      "feinberg/header1.jpg",
+      "feinberg/header2.jpg",
+      "feinberg/header3.jpg"
+    ]
+  }
+},{
+  "mongoid": {
+    "$oid": "5fa885e52efdc422b862ed55"
+  },
+  "name": "Western University Pacific - College of Osteopathic Medicine",
+  "id": 42,
+  "schoolcolor": "#862633",
+  "degreetype": "DO",
+  "applicationservice": "AACOMAS",
+  "state": "Pomona",
+  "city": "California",
+  "imageurl": "westucom/westucom.jpg",
+  "page": "/school-page/42",
+  "course_requirements": [
+    "Biology",
+    "Organic Chemistry",
+    "General Chemistry",
+    "English",
+    "Behavioral Sciences"
+  ],
+  "eligible": [
+    "Out of State",
+    "International"
+  ],
+  "standardized_tests": [
+    "MCAT",
+    "CASPER"
+  ],
+  "median_mcat": 503,
+  "median_gpa": 3.5,
+  "school_type": "Private",
+  "campus_type": "Urban",
+  "dual_degree_programs": [
+    "DO/MSHS"
+  ],
+  "admissions_tags": [],
+  "academics_tags": [],
+  "finance": {
+    "os_tuition": 99999,
+    "is_tuition": 99999,
+    "source": [
+      {
+        "note": "",
+        "update_date": {
+          "$date": "2020-12-06T17:37:57.505Z"
+        },
+        "link": ""
+      }
+    ]
+  },
+  "overview": {
+    "mission_statement": "",
+    "description": "",
+    "students": 9999,
+    "header_images": [
+      "feinberg/header1.jpg",
+      "feinberg/header2.jpg",
+      "feinberg/header3.jpg"
+    ]
+  }
+},{
+  "mongoid": {
+    "$oid": "5fa885e52efdc422b862ed56"
+  },
+  "name": "William Carey University College of Osteopathic Medicine",
+  "id": 43,
+  "schoolcolor": "#bc0a29",
+  "degreetype": "DO",
+  "applicationservice": "AACOMAS",
+  "state": "Hattiesburg",
+  "city": "Mississippi",
+  "imageurl": "westucom/westucom.jpg",
+  "page": "/school-page/43",
+  "course_requirements": [
+    "Biology",
+    "Organic Chemistry",
+    "General Chemistry",
+    "English"
+  ],
+  "eligible": [
+    "Out of State",
+    "International"
+  ],
+  "standardized_tests": [
+    "MCAT",
+    "CASPER"
+  ],
+  "median_mcat": 503,
+  "median_gpa": 3.5,
+  "school_type": "Private",
+  "campus_type": "Rural",
+  "dual_degree_programs": [],
+  "admissions_tags": [],
+  "academics_tags": [],
+  "finance": {
+    "os_tuition": 99999,
+    "is_tuition": 99999,
+    "source": [
+      {
+        "note": "",
+        "update_date": {
+          "$date": "2020-12-06T17:37:57.505Z"
+        },
+        "link": ""
+      }
+    ]
+  },
+  "overview": {
+    "mission_statement": "",
+    "description": "",
+    "students": 9999,
+    "header_images": [
+      "feinberg/header1.jpg",
+      "feinberg/header2.jpg",
+      "feinberg/header3.jpg"
+    ]
+  }
+},{
+  "mongoid": {
+    "$oid": "5fa885e52efdc422b862ed57"
+  },
+  "name": "Albany Medical College",
+  "id": 44,
+  "schoolcolor": "#882345",
+  "degreetype": "MD",
+  "applicationservice": "AMCAS",
+  "state": "New York",
+  "city": "Albany",
+  "imageurl": "amcsom/amcsom.png",
+  "page": "/school-page/44",
+  "course_requirements": [
+    "Biology",
+    "Organic Chemistry",
+    "General Chemistry",
+    "Physics"
+  ],
+  "eligible": [
+    "Out of State",
+    "International"
+  ],
+  "standardized_tests": [
+    "MCAT"
+  ],
+  "median_mcat": 503,
+  "median_gpa": 3.5,
+  "school_type": "Private",
+  "campus_type": "Urban",
+  "dual_degree_programs": [
+    "MD/MBA",
+    "MD/PhD",
+    "MD/MPH"
+  ],
+  "admissions_tags": [
+    "Early Decision Program"
+  ],
+  "academics_tags": [],
+  "finance": {
+    "os_tuition": 99999,
+    "is_tuition": 99999,
+    "source": [
+      {
+        "note": "",
+        "update_date": {
+          "$date": "2020-12-06T17:37:57.505Z"
+        },
+        "link": ""
+      }
+    ]
+  },
+  "overview": {
+    "mission_statement": "",
+    "description": "",
+    "students": 9999,
+    "header_images": [
+      "feinberg/header1.jpg",
+      "feinberg/header2.jpg",
+      "feinberg/header3.jpg"
+    ]
+  }
+},{
+  "mongoid": {
+    "$oid": "5fa885e52efdc422b862ed58"
+  },
+  "name": "Albert Einstein College of Medicine",
+  "id": 45,
+  "schoolcolor": "#2678A7",
+  "degreetype": "MD",
+  "applicationservice": "AMCAS",
+  "state": "New York",
+  "city": "Bronx",
+  "imageurl": "einstein/einstein.jpeg",
+  "page": "/school-page/45",
+  "course_requirements": [],
+  "eligible": [
+    "Out of State"
+  ],
+  "standardized_tests": [
+    "MCAT"
+  ],
+  "median_mcat": 503,
+  "median_gpa": 3.5,
+  "school_type": "Private",
+  "campus_type": "Urban",
+  "dual_degree_programs": [
+    "MD/MBA",
+    "MD/PhD",
+    "MD/MBE"
+  ],
+  "admissions_tags": [
+    "Early Decision Program"
+  ],
+  "academics_tags": [
+    "Worst Site Ever"
+  ],
+  "finance": {
+    "os_tuition": 99999,
+    "is_tuition": 99999,
+    "source": [
+      {
+        "note": "",
+        "update_date": {
+          "$date": "2020-12-06T17:37:57.505Z"
+        },
+        "link": ""
+      }
+    ]
+  },
+  "overview": {
+    "mission_statement": "",
+    "description": "",
+    "students": 9999,
+    "header_images": [
+      "feinberg/header1.jpg",
+      "feinberg/header2.jpg",
+      "feinberg/header3.jpg"
+    ]
+  }
+},{
+  "mongoid": {
+    "$oid": "5fa885e52efdc422b862ed59"
+  },
+  "name": "Baylor College of Medicine",
+  "id": 46,
+  "schoolcolor": "#882345",
+  "degreetype": "MD",
+  "applicationservice": "AMCAS",
+  "state": "Texas",
+  "city": "Houston",
+  "imageurl": "baylor/baylor.png",
+  "page": "/school-page/46",
+  "course_requirements": [
+    "Biology",
+    "Organic Chemistry",
+    "General Chemistry",
+    "Physics",
+    "English",
+    "Social Sciences",
+    "Biochemistry"
+  ],
+  "eligible": [
+    "Out of State",
+    "International"
+  ],
+  "standardized_tests": [
+    "MCAT",
+    "CASPER"
+  ],
+  "median_mcat": 503,
+  "median_gpa": 3.5,
+  "school_type": "Private",
+  "campus_type": "Urban",
+  "dual_degree_programs": [
+    "MD/MBA",
+    "MD/PhD",
+    "MD/MPH",
+    "MD/JD"
+  ],
+  "admissions_tags": [
+    "Early Decision Program"
+  ],
+  "academics_tags": [],
+  "finance": {
+    "os_tuition": 99999,
+    "is_tuition": 99999,
+    "source": [
+      {
+        "note": "",
+        "update_date": {
+          "$date": "2020-12-06T17:37:57.505Z"
+        },
+        "link": ""
+      }
+    ]
+  },
+  "overview": {
+    "mission_statement": "",
+    "description": "",
+    "students": 9999,
+    "header_images": [
+      "feinberg/header1.jpg",
+      "feinberg/header2.jpg",
+      "feinberg/header3.jpg"
+    ]
+  }
+},{
+  "mongoid": {
+    "$oid": "5fa885e52efdc422b862ed5a"
+  },
+  "name": "Boston University School of Medicine",
+  "id": 47,
+  "schoolcolor": "#c00",
+  "degreetype": "MD",
+  "applicationservice": "AMCAS",
+  "state": "Massachusetts",
+  "city": "Boston",
+  "imageurl": "bostonu/boston.png",
+  "page": "/school-page/47",
+  "course_requirements": [
+    "Biology",
+    "Organic Chemistry",
+    "General Chemistry",
+    "Physics",
+    "English",
+    "Social Sciences"
+  ],
+  "eligible": [
+    "Out of State",
+    "International"
+  ],
+  "standardized_tests": [
+    "MCAT",
+    "CASPER"
+  ],
+  "median_mcat": 503,
+  "median_gpa": 3.5,
+  "school_type": "Private",
+  "campus_type": "Urban",
+  "dual_degree_programs": [
+    "MD/MBA",
+    "MD/PhD",
+    "MD/MPH",
+    "MD/JD",
+    "MD/MSCR",
+    "MD/OMFS"
+  ],
+  "admissions_tags": [
+    "Early Decision Program"
+  ],
+  "academics_tags": [],
+  "finance": {
+    "os_tuition": 99999,
+    "is_tuition": 99999,
+    "source": [
+      {
+        "note": "",
+        "update_date": {
+          "$date": "2020-12-06T17:37:57.505Z"
+        },
+        "link": ""
+      }
+    ]
+  },
+  "overview": {
+    "mission_statement": "",
+    "description": "",
+    "students": 9999,
+    "header_images": [
+      "feinberg/header1.jpg",
+      "feinberg/header2.jpg",
+      "feinberg/header3.jpg"
+    ]
+  }
+},{
+  "mongoid": {
+    "$oid": "5fa885e52efdc422b862ed5b"
+  },
+  "name": "Brody School of Medicine at East Carolina University",
+  "id": 48,
+  "schoolcolor": "#41215e",
+  "degreetype": "MD",
+  "applicationservice": "AMCAS",
+  "state": "North Carolina",
+  "city": "Greenville",
+  "imageurl": "ecu/ecu.png",
+  "page": "/school-page/48",
+  "course_requirements": [
+    "Biology",
+    "Organic Chemistry",
+    "General Chemistry",
+    "Physics",
+    "English",
+    "Social Sciences",
+    "Statistics"
+  ],
+  "eligible": [],
+  "standardized_tests": [
+    "MCAT"
+  ],
+  "median_mcat": 503,
+  "median_gpa": 3.5,
+  "school_type": "Public",
+  "campus_type": "Urban",
+  "dual_degree_programs": [
+    "MD/MPH",
+    "MD/PhD",
+    "MD/MBA"
+  ],
+  "admissions_tags": [
+    "Early Decision Program"
+  ],
+  "academics_tags": [],
+  "finance": {
+    "os_tuition": 99999,
+    "is_tuition": 99999,
+    "source": [
+      {
+        "note": "",
+        "update_date": {
+          "$date": "2020-12-06T17:37:57.505Z"
+        },
+        "link": ""
+      }
+    ]
+  },
+  "overview": {
+    "mission_statement": "",
+    "description": "",
+    "students": 9999,
+    "header_images": [
+      "feinberg/header1.jpg",
+      "feinberg/header2.jpg",
+      "feinberg/header3.jpg"
+    ]
+  }
+},{
+  "mongoid": {
+    "$oid": "5fa885e52efdc422b862ed5c"
+  },
+  "name": "California Northstate University College of Medicine",
+  "id": 49,
+  "schoolcolor": "#104e8b",
+  "degreetype": "MD",
+  "applicationservice": "AMCAS",
+  "state": "California",
+  "city": "Elk Grove",
+  "imageurl": "cnusom/cnu.jpg",
+  "page": "/school-page/49",
+  "course_requirements": [
+    "Biology",
+    "Organic Chemistry",
+    "General Chemistry",
+    "Physics",
+    "English",
+    "Mathematics",
+    "Biochemistry"
+  ],
+  "eligible": [
+    "Out of State",
+    "International"
+  ],
+  "standardized_tests": [
+    "MCAT"
+  ],
+  "median_mcat": 503,
+  "median_gpa": 3.5,
+  "school_type": "Private",
+  "campus_type": "Suburban",
+  "dual_degree_programs": [],
+  "admissions_tags": [
+    "Early Decision Program"
+  ],
+  "academics_tags": [],
+  "finance": {
+    "os_tuition": 99999,
+    "is_tuition": 99999,
+    "source": [
+      {
+        "note": "",
+        "update_date": {
+          "$date": "2020-12-06T17:37:57.505Z"
+        },
+        "link": ""
+      }
+    ]
+  },
+  "overview": {
+    "mission_statement": "",
+    "description": "",
+    "students": 9999,
+    "header_images": [
+      "feinberg/header1.jpg",
+      "feinberg/header2.jpg",
+      "feinberg/header3.jpg"
+    ]
+  }
+},{
+  "mongoid": {
+    "$oid": "5fa885e52efdc422b862ed5d"
+  },
+  "name": "California University of Science and Medicine",
+  "id": 50,
+  "schoolcolor": "#802145",
+  "degreetype": "MD",
+  "applicationservice": "AMCAS",
+  "state": "California",
+  "city": "Colton",
+  "imageurl": "cusm/cusjm.jpg",
+  "page": "/school-page/50",
+  "course_requirements": [],
+  "eligible": [
+    "Out of State",
+    "International"
+  ],
+  "standardized_tests": [
+    "MCAT"
+  ],
+  "median_mcat": 503,
+  "median_gpa": 3.5,
+  "school_type": "Private",
+  "campus_type": "Suburban",
+  "dual_degree_programs": [],
+  "admissions_tags": [
+    "Early Decision Program"
+  ],
+  "academics_tags": [],
+  "finance": {
+    "os_tuition": 99999,
+    "is_tuition": 99999,
+    "source": [
+      {
+        "note": "",
+        "update_date": {
+          "$date": "2020-12-06T17:37:57.505Z"
+        },
+        "link": ""
+      }
+    ]
+  },
+  "overview": {
+    "mission_statement": "",
+    "description": "",
+    "students": 9999,
+    "header_images": [
+      "feinberg/header1.jpg",
+      "feinberg/header2.jpg",
+      "feinberg/header3.jpg"
+    ]
+  }
+},{
+  "mongoid": {
+    "$oid": "5fa885e52efdc422b862ed5e"
+  },
+  "name": "Carle Illinois College of Medicine",
+  "id": 51,
+  "schoolcolor": "#802145",
+  "degreetype": "MD",
+  "applicationservice": "AMCAS",
+  "state": "Illinois",
+  "city": "Champaign",
+  "imageurl": "cisom/cisom.jpeg",
+  "page": "/school-page/51",
+  "course_requirements": [
+    "Biology",
+    "Organic Chemistry",
+    "General Chemistry",
+    "Physics",
+    "English",
+    "Mathematics",
+    "Biochemistry",
+    "Social Sciences",
+    "Statistics",
+    "Calculus"
+  ],
+  "eligible": [
+    "Out of State"
+  ],
+  "standardized_tests": [
+    "MCAT"
+  ],
+  "median_mcat": 503,
+  "median_gpa": 3.5,
+  "school_type": "Private",
+  "campus_type": "Urban",
+  "dual_degree_programs": [
+    "MD/PhD"
+  ],
+  "admissions_tags": [],
+  "academics_tags": [],
+  "finance": {
+    "os_tuition": 99999,
+    "is_tuition": 99999,
+    "source": [
+      {
+        "note": "",
+        "update_date": {
+          "$date": "2020-12-06T17:37:57.505Z"
+        },
+        "link": ""
+      }
+    ]
+  },
+  "overview": {
+    "mission_statement": "",
+    "description": "",
+    "students": 9999,
+    "header_images": [
+      "feinberg/header1.jpg",
+      "feinberg/header2.jpg",
+      "feinberg/header3.jpg"
+    ]
+  }
+},{
+  "mongoid": {
+    "$oid": "5fa885e52efdc422b862ed5f"
+  },
+  "name": "Case Western Reserve University School of Medicine",
+  "id": 51,
+  "schoolcolor": "#0a304e",
+  "degreetype": "MD",
+  "applicationservice": "AMCAS",
+  "state": "Ohio",
+  "city": "Cleveland",
+  "imageurl": "case/case.png",
+  "page": "/school-page/51",
+  "course_requirements": [
+    "Organic Chemistry",
+    "General Chemistry",
+    "Physics",
+    "English",
+    "Biochemistry"
+  ],
+  "eligible": [
+    "Out of State"
+  ],
+  "standardized_tests": [
+    "MCAT",
+    "CASPER"
+  ],
+  "median_mcat": 503,
+  "median_gpa": 3.5,
+  "school_type": "Private",
+  "campus_type": "Urban",
+  "dual_degree_programs": [
+    "MD/PhD",
+    "MD/MA",
+    "MD/MS",
+    "MD/MBA",
+    "MD/JD"
+  ],
+  "admissions_tags": [
+    "Early Decision"
+  ],
+  "academics_tags": [],
+  "finance": {
+    "os_tuition": 99999,
+    "is_tuition": 99999,
+    "source": [
+      {
+        "note": "",
+        "update_date": {
+          "$date": "2020-12-06T17:37:57.505Z"
+        },
+        "link": ""
+      }
+    ]
+  },
+  "overview": {
+    "mission_statement": "",
+    "description": "",
+    "students": 9999,
+    "header_images": [
+      "feinberg/header1.jpg",
+      "feinberg/header2.jpg",
+      "feinberg/header3.jpg"
+    ]
+  }
+},{
+  "mongoid": {
+    "$oid": "5fa885e52efdc422b862ed60"
+  },
+  "name": "Central Michigan University College of Medicine",
+  "id": 52,
+  "schoolcolor": "rgba(106,0,50,0.85)",
+  "degreetype": "MD",
+  "applicationservice": "AMCAS",
+  "state": "Michigan",
+  "city": "Mt. Pleasant",
+  "imageurl": "cmu/cmu.png",
+  "page": "/school-page/52",
+  "course_requirements": [
+    "Organic Chemistry",
+    "General Chemistry",
+    "Biology"
+  ],
+  "eligible": [
+    "Out of State"
+  ],
+  "standardized_tests": [
+    "MCAT"
+  ],
+  "median_mcat": 503,
+  "median_gpa": 3.5,
+  "school_type": "Public",
+  "campus_type": "Rural",
+  "dual_degree_programs": [
+    "MD/MBA"
+  ],
+  "admissions_tags": [
+    "Early Decision"
+  ],
+  "academics_tags": [],
+  "finance": {
+    "os_tuition": 99999,
+    "is_tuition": 99999,
+    "source": [
+      {
+        "note": "",
+        "update_date": {
+          "$date": "2020-12-06T17:37:57.505Z"
+        },
+        "link": ""
+      }
+    ]
+  },
+  "overview": {
+    "mission_statement": "",
+    "description": "",
+    "students": 9999,
+    "header_images": [
+      "feinberg/header1.jpg",
+      "feinberg/header2.jpg",
+      "feinberg/header3.jpg"
+    ]
+  }
+},{
+  "mongoid": {
+    "$oid": "5fa885e52efdc422b862ed61"
+  },
+  "name": "Charles E. Schmidt College of Medicine at Florida Atlantic University",
+  "id": 53,
+  "schoolcolor": "#003366",
+  "degreetype": "MD",
+  "applicationservice": "AMCAS",
+  "state": "Florida",
+  "city": "Boca Raton",
+  "imageurl": "fau/fau.png",
+  "page": "/school-page/53",
+  "course_requirements": [
+    "Organic Chemistry",
+    "General Chemistry",
+    "Biology",
+    "Mathematics",
+    "English"
+  ],
+  "eligible": [
+    "Out of State"
+  ],
+  "standardized_tests": [
+    "MCAT",
+    "CASPER"
+  ],
+  "median_mcat": 503,
+  "median_gpa": 3.5,
+  "school_type": "Public",
+  "campus_type": "Urban",
+  "dual_degree_programs": [
+    "MD/MBA",
+    "MD/MHA",
+    "MD/PhD"
+  ],
+  "admissions_tags": [],
+  "academics_tags": [],
+  "finance": {
+    "os_tuition": 99999,
+    "is_tuition": 99999,
+    "source": [
+      {
+        "note": "",
+        "update_date": {
+          "$date": "2020-12-06T17:37:57.505Z"
+        },
+        "link": ""
+      }
+    ]
+  },
+  "overview": {
+    "mission_statement": "",
+    "description": "",
+    "students": 9999,
+    "header_images": [
+      "feinberg/header1.jpg",
+      "feinberg/header2.jpg",
+      "feinberg/header3.jpg"
+    ]
+  }
+},{
+  "mongoid": {
+    "$oid": "5fa885e52efdc422b862ed62"
+  },
+  "name": "Chicago Medical School at Rosalind Franklin University of Medicine & Science",
+  "id": 54,
+  "schoolcolor": "#8c2531",
+  "degreetype": "MD",
+  "applicationservice": "AMCAS",
+  "state": "Illinois",
+  "city": "North Chicago",
+  "imageurl": "rfusom/rfusom.png",
+  "page": "/school-page/54",
+  "course_requirements": [
+    "Organic Chemistry",
+    "General Chemistry",
+    "Biology",
+    "Physics",
+    "Biochemistry",
+    "Behavioral Sciences"
+  ],
+  "eligible": [
+    "Out of State"
+  ],
+  "standardized_tests": [
+    "MCAT",
+    "CASPER"
+  ],
+  "median_mcat": 503,
+  "median_gpa": 3.5,
+  "school_type": "Private",
+  "campus_type": "Suburban",
+  "dual_degree_programs": [
+    "MD/PhD"
+  ],
+  "admissions_tags": [
+    "Early Decision Program"
+  ],
+  "academics_tags": [],
+  "finance": {
+    "os_tuition": 99999,
+    "is_tuition": 99999,
+    "source": [
+      {
+        "note": "",
+        "update_date": {
+          "$date": "2020-12-06T17:37:57.505Z"
+        },
+        "link": ""
+      }
+    ]
+  },
+  "overview": {
+    "mission_statement": "",
+    "description": "",
+    "students": 9999,
+    "header_images": [
+      "feinberg/header1.jpg",
+      "feinberg/header2.jpg",
+      "feinberg/header3.jpg"
+    ]
+  }
+},{
+  "mongoid": {
+    "$oid": "5fa885e52efdc422b862ed63"
+  },
+  "name": "Columbia University Vagelos College of Physicians and Surgeons",
+  "id": 55,
+  "schoolcolor": "#1d4f91",
+  "degreetype": "MD",
+  "applicationservice": "AMCAS",
+  "state": "New York",
+  "city": "New York",
+  "imageurl": "columbia/columbia.png",
+  "page": "/school-page/55",
+  "course_requirements": [
+    "English",
+    "Organic Chemistry",
+    "General Chemistry",
+    "Biology",
+    "Physics"
+  ],
+  "eligible": [
+    "Out of State",
+    "International"
+  ],
+  "standardized_tests": [
+    "MCAT"
+  ],
+  "median_mcat": 503,
+  "median_gpa": 3.5,
+  "school_type": "Private",
+  "campus_type": "Urban",
+  "dual_degree_programs": [
+    "MD/PhD",
+    "MD/OMFS",
+    "MD/MS",
+    "MD/MA",
+    "MD/MPH"
+  ],
+  "admissions_tags": [],
+  "academics_tags": [],
+  "finance": {
+    "os_tuition": 99999,
+    "is_tuition": 99999,
+    "source": [
+      {
+        "note": "",
+        "update_date": {
+          "$date": "2020-12-06T17:37:57.505Z"
+        },
+        "link": ""
+      }
+    ]
+  },
+  "overview": {
+    "mission_statement": "",
+    "description": "",
+    "students": 9999,
+    "header_images": [
+      "feinberg/header1.jpg",
+      "feinberg/header2.jpg",
+      "feinberg/header3.jpg"
+    ]
+  }
+},{
+  "mongoid": {
+    "$oid": "5fa885e52efdc422b862ed64"
+  },
+  "name": "Cooper Medical School of Rowan University",
+  "id": 56,
+  "schoolcolor": "#A72323",
+  "degreetype": "MD",
+  "applicationservice": "AMCAS",
+  "state": "New Jersey",
+  "city": "Camden",
+  "imageurl": "rowan/rowan.jpg",
+  "page": "/school-page/56",
+  "course_requirements": [
+    "General Chemistry",
+    "English",
+    "Biology"
+  ],
+  "eligible": [
+    "Out of State"
+  ],
+  "standardized_tests": [
+    "MCAT"
+  ],
+  "median_mcat": 503,
+  "median_gpa": 3.5,
+  "school_type": "Public",
+  "campus_type": "Urban",
+  "dual_degree_programs": [],
+  "admissions_tags": [
+    "Early Decision Program"
+  ],
+  "academics_tags": [],
+  "finance": {
+    "os_tuition": 99999,
+    "is_tuition": 99999,
+    "source": [
+      {
+        "note": "",
+        "update_date": {
+          "$date": "2020-12-06T17:37:57.505Z"
+        },
+        "link": ""
+      }
+    ]
+  },
+  "overview": {
+    "mission_statement": "",
+    "description": "",
+    "students": 9999,
+    "header_images": [
+      "feinberg/header1.jpg",
+      "feinberg/header2.jpg",
+      "feinberg/header3.jpg"
+    ]
+  }
+},{
+  "mongoid": {
+    "$oid": "5fa885e52efdc422b862ed65"
+  },
+  "name": "Creighton University School of Medicine",
+  "id": 57,
+  "schoolcolor": "#A72323",
+  "degreetype": "MD",
+  "applicationservice": "AMCAS",
+  "state": "Nebraska",
+  "city": "Omaha",
+  "imageurl": "creighton/creighton.png",
+  "page": "/school-page/57",
+  "course_requirements": [
+    "English",
+    "Biology",
+    "Biochemistry",
+    "Statistics",
+    "Anatomy"
+  ],
+  "eligible": [
+    "Out of State"
+  ],
+  "standardized_tests": [
+    "MCAT"
+  ],
+  "median_mcat": 503,
+  "median_gpa": 3.5,
+  "school_type": "Private",
+  "campus_type": "Urban",
+  "dual_degree_programs": [
+    "MD/PhD",
+    "MD/MBA",
+    "MD/MSHCE"
+  ],
+  "admissions_tags": [
+    "Early Decision Program"
+  ],
+  "academics_tags": [],
+  "finance": {
+    "os_tuition": 99999,
+    "is_tuition": 99999,
+    "source": [
+      {
+        "note": "",
+        "update_date": {
+          "$date": "2020-12-06T17:37:57.505Z"
+        },
+        "link": ""
+      }
+    ]
+  },
+  "overview": {
+    "mission_statement": "",
+    "description": "",
+    "students": 9999,
+    "header_images": [
+      "feinberg/header1.jpg",
+      "feinberg/header2.jpg",
+      "feinberg/header3.jpg"
+    ]
+  }
+},{
+  "mongoid": {
+    "$oid": "5fa885e52efdc422b862ed66"
+  },
+  "name": "CUNY School of Medicine",
+  "id": 58,
+  "schoolcolor": "#0054a6",
+  "degreetype": "MD",
+  "applicationservice": "In-House",
+  "state": "New York",
+  "city": "New York",
+  "imageurl": "cuny/cuny.jpg",
+  "page": "/school-page/58",
+  "course_requirements": [],
+  "eligible": [
+    "Out of State"
+  ],
+  "standardized_tests": [],
+  "median_mcat": 503,
+  "median_gpa": 3.5,
+  "school_type": "Public",
+  "campus_type": "Urban",
+  "dual_degree_programs": [],
+  "admissions_tags": [
+    "Early Decision Program",
+    "Undergraduate Entry Only"
+  ],
+  "academics_tags": [],
+  "finance": {
+    "os_tuition": 99999,
+    "is_tuition": 99999,
+    "source": [
+      {
+        "note": "",
+        "update_date": {
+          "$date": "2020-12-06T17:37:57.505Z"
+        },
+        "link": ""
+      }
+    ]
+  },
+  "overview": {
+    "mission_statement": "",
+    "description": "",
+    "students": 9999,
+    "header_images": [
+      "feinberg/header1.jpg",
+      "feinberg/header2.jpg",
+      "feinberg/header3.jpg"
+    ]
+  }
+},{
+  "mongoid": {
+    "$oid": "5fa885e52efdc422b862ed67"
+  },
+  "name": "Donald and Barbara Zucker School of Medicine at Hofstra/Northwell",
+  "id": 59,
+  "schoolcolor": "#00245d",
+  "degreetype": "MD",
+  "applicationservice": "AMCAS",
+  "state": "New York",
+  "city": "Hempstead",
+  "imageurl": "hofstra/hofstra.png",
+  "page": "/school-page/59",
+  "course_requirements": [],
+  "eligible": [
+    "Out of State"
+  ],
+  "standardized_tests": [
+    "MCAT",
+    "CASPER"
+  ],
+  "median_mcat": 503,
+  "median_gpa": 3.5,
+  "school_type": "Private",
+  "campus_type": "Suburban",
+  "dual_degree_programs": [
+    "MD/PhD",
+    "MD/MPH",
+    "MD/MBA",
+    "MD/OMS"
+  ],
+  "admissions_tags": [
+    "Early Decision Program"
+  ],
+  "academics_tags": [],
+  "finance": {
+    "os_tuition": 99999,
+    "is_tuition": 99999,
+    "source": [
+      {
+        "note": "",
+        "update_date": {
+          "$date": "2020-12-06T17:37:57.505Z"
+        },
+        "link": ""
+      }
+    ]
+  },
+  "overview": {
+    "mission_statement": "",
+    "description": "",
+    "students": 9999,
+    "header_images": [
+      "feinberg/header1.jpg",
+      "feinberg/header2.jpg",
+      "feinberg/header3.jpg"
+    ]
+  }
+},{
+  "mongoid": {
+    "$oid": "5fa885e52efdc422b862ed68"
+  },
+  "name": "Drexel University College of Medicine",
+  "id": 60,
+  "schoolcolor": "#07294d",
+  "degreetype": "MD",
+  "applicationservice": "AMCAS",
+  "state": "Pennsylvania",
+  "city": "Philadelphia",
+  "imageurl": "drexel/drexel.png",
+  "page": "/school-page/60",
+  "course_requirements": [
+    "Biology",
+    "General Chemistry",
+    "Organic Chemistry",
+    "Biochemistry",
+    "Statistics",
+    "English",
+    "Behavioral Sciences"
+  ],
+  "eligible": [
+    "Out of State"
+  ],
+  "standardized_tests": [
+    "MCAT",
+    "CASPER"
+  ],
+  "median_mcat": 503,
+  "median_gpa": 3.5,
+  "school_type": "Private",
+  "campus_type": "Urban",
+  "dual_degree_programs": [
+    "MD/PhD",
+    "MD/MPH",
+    "MD/MBA",
+    "MD/MS"
+  ],
+  "admissions_tags": [
+    "Early Decision Program"
+  ],
+  "academics_tags": [],
+  "finance": {
+    "os_tuition": 99999,
+    "is_tuition": 99999,
+    "source": [
+      {
+        "note": "",
+        "update_date": {
+          "$date": "2020-12-06T17:37:57.505Z"
+        },
+        "link": ""
+      }
+    ]
+  },
+  "overview": {
+    "mission_statement": "",
+    "description": "",
+    "students": 9999,
+    "header_images": [
+      "feinberg/header1.jpg",
+      "feinberg/header2.jpg",
+      "feinberg/header3.jpg"
+    ]
+  }
+},{
+  "mongoid": {
+    "$oid": "5fa885e52efdc422b862ed69"
+  },
+  "name": "Duke University School of Medicine",
+  "id": 61,
+  "schoolcolor": "#00539b",
+  "degreetype": "MD",
+  "applicationservice": "AMCAS",
+  "state": "North Carolina",
+  "city": "Durham",
+  "imageurl": "duke/duke.png",
+  "page": "/school-page/61",
+  "course_requirements": [],
+  "eligible": [
+    "Out of State"
+  ],
+  "standardized_tests": [
+    "MCAT"
+  ],
+  "median_mcat": 503,
+  "median_gpa": 3.5,
+  "school_type": "Private",
+  "campus_type": "Urban",
+  "dual_degree_programs": [
+    "MD/PhD"
+  ],
+  "admissions_tags": [],
+  "academics_tags": [],
+  "finance": {
+    "os_tuition": 99999,
+    "is_tuition": 99999,
+    "source": [
+      {
+        "note": "",
+        "update_date": {
+          "$date": "2020-12-06T17:37:57.505Z"
+        },
+        "link": ""
+      }
+    ]
+  },
+  "overview": {
+    "mission_statement": "",
+    "description": "",
+    "students": 9999,
+    "header_images": [
+      "feinberg/header1.jpg",
+      "feinberg/header2.jpg",
+      "feinberg/header3.jpg"
+    ]
+  }
+},{
+  "mongoid": {
+    "$oid": "5fa885e52efdc422b862ed6a"
+  },
+  "name": "East Tennessee State University James H. Quillen College of Medicine",
+  "id": 62,
+  "schoolcolor": "#003269",
+  "degreetype": "MD",
+  "applicationservice": "AMCAS",
+  "state": "Tennessee",
+  "city": "Johnson City",
+  "imageurl": "etsom/etsom.png",
+  "page": "/school-page/62",
+  "course_requirements": [],
+  "eligible": [
+    "Out of State"
+  ],
+  "standardized_tests": [
+    "MCAT",
+    "CASPER"
+  ],
+  "median_mcat": 503,
+  "median_gpa": 3.5,
+  "school_type": "Public",
+  "campus_type": "Urban",
+  "dual_degree_programs": [
+    "MD/MPH"
+  ],
+  "admissions_tags": [
+    "Early Decision Program"
+  ],
+  "academics_tags": [],
+  "finance": {
+    "os_tuition": 99999,
+    "is_tuition": 99999,
+    "source": [
+      {
+        "note": "",
+        "update_date": {
+          "$date": "2020-12-06T17:37:57.505Z"
+        },
+        "link": ""
+      }
+    ]
+  },
+  "overview": {
+    "mission_statement": "",
+    "description": "",
+    "students": 9999,
+    "header_images": [
+      "feinberg/header1.jpg",
+      "feinberg/header2.jpg",
+      "feinberg/header3.jpg"
+    ]
+  }
+},{
+  "mongoid": {
+    "$oid": "5fa885e52efdc422b862ed6b"
+  },
+  "name": "Eastern Virginia Medical School",
+  "id": 63,
+  "schoolcolor": "#1f7f9b",
+  "degreetype": "MD",
+  "applicationservice": "AMCAS",
+  "state": "Tennessee",
+  "city": "Johnson City",
+  "imageurl": "evms/evms.svg",
+  "page": "/school-page/63",
+  "course_requirements": [
+    "Biology",
+    "General Chemistry",
+    "Organic Chemistry",
+    "Physics"
+  ],
+  "eligible": [
+    "Out of State"
+  ],
+  "standardized_tests": [
+    "MCAT"
+  ],
+  "median_mcat": 503,
+  "median_gpa": 3.5,
+  "school_type": "Public",
+  "campus_type": "Urban",
+  "dual_degree_programs": [
+    "MD/MPH",
+    "MD/MBA"
+  ],
+  "admissions_tags": [
+    "Early Decision Program"
+  ],
+  "academics_tags": [],
+  "finance": {
+    "os_tuition": 99999,
+    "is_tuition": 99999,
+    "source": [
+      {
+        "note": "",
+        "update_date": {
+          "$date": "2020-12-06T17:37:57.505Z"
+        },
+        "link": ""
+      }
+    ]
+  },
+  "overview": {
+    "mission_statement": "",
+    "description": "",
+    "students": 9999,
+    "header_images": [
+      "feinberg/header1.jpg",
+      "feinberg/header2.jpg",
+      "feinberg/header3.jpg"
+    ]
+  }
+},{
+  "mongoid": {
+    "$oid": "5fa885e52efdc422b862ed6c"
+  },
+  "name": "Eastern Virginia Medical School",
+  "id": 64,
+  "schoolcolor": "#1f7f9b",
+  "degreetype": "MD",
+  "applicationservice": "AMCAS",
+  "state": "Virginia",
+  "city": "Norfolk",
+  "imageurl": "evms/evms.svg",
+  "page": "/school-page/64",
+  "course_requirements": [
+    "Biology",
+    "General Chemistry",
+    "Organic Chemistry",
+    "Physics"
+  ],
+  "eligible": [
+    "Out of State"
+  ],
+  "standardized_tests": [
+    "MCAT"
+  ],
+  "median_mcat": 503,
+  "median_gpa": 3.5,
+  "school_type": "Public",
+  "campus_type": "Urban",
+  "dual_degree_programs": [
+    "MD/MPH",
+    "MD/MBA"
+  ],
+  "admissions_tags": [
+    "Early Decision Program"
+  ],
+  "academics_tags": [],
+  "finance": {
+    "os_tuition": 99999,
+    "is_tuition": 99999,
+    "source": [
+      {
+        "note": "",
+        "update_date": {
+          "$date": "2020-12-06T17:37:57.505Z"
+        },
+        "link": ""
+      }
+    ]
+  },
+  "overview": {
+    "mission_statement": "",
+    "description": "",
+    "students": 9999,
+    "header_images": [
+      "feinberg/header1.jpg",
+      "feinberg/header2.jpg",
+      "feinberg/header3.jpg"
+    ]
+  }
+},{
+  "mongoid": {
+    "$oid": "5fa885e52efdc422b862ed6d"
+  },
+  "name": "Florida International University Herbert Wertheim College of Medicine",
+  "id": 65,
+  "schoolcolor": "#081E3f",
+  "degreetype": "MD",
+  "applicationservice": "AMCAS",
+  "state": "Florida",
+  "city": "Miami",
+  "imageurl": "fiu/fiu.png",
+  "page": "/school-page/65",
+  "course_requirements": [
+    "Biology",
+    "Mathematics",
+    "English",
+    "General Chemistry",
+    "Organic Chemistry",
+    "Physics"
+  ],
+  "eligible": [
+    "Out of State"
+  ],
+  "standardized_tests": [
+    "MCAT"
+  ],
+  "median_mcat": 503,
+  "median_gpa": 3.5,
+  "school_type": "Public",
+  "campus_type": "Urban",
+  "dual_degree_programs": [
+    "MD/MPH",
+    "MD/MBA"
+  ],
+  "admissions_tags": [
+    "Early Decision Program"
+  ],
+  "academics_tags": [],
+  "finance": {
+    "os_tuition": 99999,
+    "is_tuition": 99999,
+    "source": [
+      {
+        "note": "",
+        "update_date": {
+          "$date": "2020-12-06T17:37:57.505Z"
+        },
+        "link": ""
+      }
+    ]
+  },
+  "overview": {
+    "mission_statement": "",
+    "description": "",
+    "students": 9999,
+    "header_images": [
+      "feinberg/header1.jpg",
+      "feinberg/header2.jpg",
+      "feinberg/header3.jpg"
+    ]
+  }
+},{
+  "mongoid": {
+    "$oid": "5fa885e52efdc422b862ed6e"
+  },
+  "name": "Florida State University College of Medicine",
+  "id": 66,
+  "schoolcolor": "#782f40",
+  "degreetype": "MD",
+  "applicationservice": "AMCAS",
+  "state": "Florida",
+  "city": "Tallahassee",
+  "imageurl": "fsu/fsu.png",
+  "page": "/school-page/66",
+  "course_requirements": [
+    "Biology",
+    "Biochemistry",
+    "Mathematics",
+    "English",
+    "General Chemistry",
+    "Organic Chemistry",
+    "Physics"
+  ],
+  "eligible": [],
+  "standardized_tests": [
+    "MCAT"
+  ],
+  "median_mcat": 503,
+  "median_gpa": 3.5,
+  "school_type": "Public",
+  "campus_type": "Urban",
+  "dual_degree_programs": [],
+  "admissions_tags": [
+    "Early Decision Program"
+  ],
+  "academics_tags": [],
+  "finance": {
+    "os_tuition": 99999,
+    "is_tuition": 99999,
+    "source": [
+      {
+        "note": "",
+        "update_date": {
+          "$date": "2020-12-06T17:37:57.505Z"
+        },
+        "link": ""
+      }
+    ]
+  },
+  "overview": {
+    "mission_statement": "",
+    "description": "",
+    "students": 9999,
+    "header_images": [
+      "feinberg/header1.jpg",
+      "feinberg/header2.jpg",
+      "feinberg/header3.jpg"
+    ]
+  }
+},{
+  "mongoid": {
+    "$oid": "5fa885e52efdc422b862ed6f"
+  },
+  "name": "Frank H. Netter MD School of Medicine at Quinnipiac University",
+  "id": 67,
+  "schoolcolor": "#00263e",
+  "degreetype": "MD",
+  "applicationservice": "AMCAS",
+  "state": "Connecticut",
+  "city": "Hamden",
+  "imageurl": "quinnepac/quinnepac.png",
+  "page": "/school-page/67",
+  "course_requirements": [
+    "Biology",
+    "Statistics",
+    "Biochemistry",
+    "Mathematics",
+    "English",
+    "General Chemistry",
+    "Organic Chemistry",
+    "Physics"
+  ],
+  "eligible": [
+    "Out of State"
+  ],
+  "standardized_tests": [
+    "MCAT"
+  ],
+  "median_mcat": 503,
+  "median_gpa": 3.5,
+  "school_type": "Private",
+  "campus_type": "Suburban",
+  "dual_degree_programs": [],
+  "admissions_tags": [
+    "Early Decision Program"
+  ],
+  "academics_tags": [],
+  "finance": {
+    "os_tuition": 99999,
+    "is_tuition": 99999,
+    "source": [
+      {
+        "note": "",
+        "update_date": {
+          "$date": "2020-12-06T17:37:57.505Z"
+        },
+        "link": ""
+      }
+    ]
+  },
+  "overview": {
+    "mission_statement": "",
+    "description": "",
+    "students": 9999,
+    "header_images": [
+      "feinberg/header1.jpg",
+      "feinberg/header2.jpg",
+      "feinberg/header3.jpg"
+    ]
+  }
+},{
+  "mongoid": {
+    "$oid": "5fa885e52efdc422b862ed70"
+  },
+  "name": "Geisel School of Medicine at Dartmouth",
+  "id": 68,
+  "schoolcolor": "#006845",
+  "degreetype": "MD",
+  "applicationservice": "AMCAS",
+  "state": "New Hampshire",
+  "city": "Hanover",
+  "imageurl": "geisel/geisel.jpg",
+  "page": "/school-page/68",
+  "course_requirements": [
+    "Biology",
+    "Biochemistry",
+    "Mathematics",
+    "General Chemistry",
+    "Organic Chemistry",
+    "Physics"
+  ],
+  "eligible": [
+    "Out of State",
+    "International"
+  ],
+  "standardized_tests": [
+    "MCAT"
+  ],
+  "median_mcat": 503,
+  "median_gpa": 3.5,
+  "school_type": "Private",
+  "campus_type": "Rural",
+  "dual_degree_programs": [
+    "MD/PhD",
+    "MD/MS",
+    "MD/MBA"
+  ],
+  "admissions_tags": [],
+  "academics_tags": [],
+  "finance": {
+    "os_tuition": 99999,
+    "is_tuition": 99999,
+    "source": [
+      {
+        "note": "",
+        "update_date": {
+          "$date": "2020-12-06T17:37:57.505Z"
+        },
+        "link": ""
+      }
+    ]
+  },
+  "overview": {
+    "mission_statement": "",
+    "description": "",
+    "students": 9999,
+    "header_images": [
+      "feinberg/header1.jpg",
+      "feinberg/header2.jpg",
+      "feinberg/header3.jpg"
+    ]
+  }
+},{
+  "mongoid": {
+    "$oid": "5fa885e52efdc422b862ed71"
+  },
+  "name": "Geisinger Commonwealth School of Medicine",
+  "id": 69,
+  "schoolcolor": "#94ccf7",
+  "degreetype": "MD",
+  "applicationservice": "AMCAS",
+  "state": "Pennsylvania",
+  "city": "Scranton",
+  "imageurl": "geisinger/geisinger.jpg",
+  "page": "/school-page/69",
+  "course_requirements": [
+    "Biology",
+    "English",
+    "General Chemistry",
+    "Organic Chemistry",
+    "Physics"
+  ],
+  "eligible": [
+    "Out of State",
+    "International"
+  ],
+  "standardized_tests": [
+    "MCAT"
+  ],
+  "median_mcat": 503,
+  "median_gpa": 3.5,
+  "school_type": "Private",
+  "campus_type": "Urban",
+  "dual_degree_programs": [],
+  "admissions_tags": [
+    "Early Decision Program"
+  ],
+  "academics_tags": [],
+  "finance": {
+    "os_tuition": 99999,
+    "is_tuition": 99999,
+    "source": [
+      {
+        "note": "",
+        "update_date": {
+          "$date": "2020-12-06T17:37:57.505Z"
+        },
+        "link": ""
+      }
+    ]
+  },
+  "overview": {
+    "mission_statement": "",
+    "description": "",
+    "students": 9999,
+    "header_images": [
+      "feinberg/header1.jpg",
+      "feinberg/header2.jpg",
+      "feinberg/header3.jpg"
+    ]
+  }
+},{
+  "mongoid": {
+    "$oid": "5fa885e52efdc422b862ed72"
+  },
+  "name": "George Washington University School of Medicine and Health Sciences",
+  "id": 70,
+  "schoolcolor": "#033C5A",
+  "degreetype": "MD",
+  "applicationservice": "AMCAS",
+  "state": "D.C",
+  "city": "Washington",
+  "imageurl": "gwusom/gwusom.png",
+  "page": "/school-page/70",
+  "course_requirements": [
+    "Biology",
+    "English",
+    "General Chemistry",
+    "Organic Chemistry",
+    "Physics",
+    "Statistics",
+    "Behavioral Sciences"
+  ],
+  "eligible": [
+    "Out of State",
+    "International"
+  ],
+  "standardized_tests": [
+    "MCAT"
+  ],
+  "median_mcat": 503,
+  "median_gpa": 3.5,
+  "school_type": "Private",
+  "campus_type": "Urban",
+  "dual_degree_programs": [
+    "MD/MPH"
+  ],
+  "admissions_tags": [
+    "Early Decision Program"
+  ],
+  "academics_tags": [],
+  "finance": {
+    "os_tuition": 99999,
+    "is_tuition": 99999,
+    "source": [
+      {
+        "note": "",
+        "update_date": {
+          "$date": "2020-12-06T17:37:57.505Z"
+        },
+        "link": ""
+      }
+    ]
+  },
+  "overview": {
+    "mission_statement": "",
+    "description": "",
+    "students": 9999,
+    "header_images": [
+      "feinberg/header1.jpg",
+      "feinberg/header2.jpg",
+      "feinberg/header3.jpg"
+    ]
+  }
+},{
+  "mongoid": {
+    "$oid": "5fa885e52efdc422b862ed73"
+  },
+  "name": "Georgetown University School of Medicine",
+  "id": 71,
+  "schoolcolor": "#005a87",
+  "degreetype": "MD",
+  "applicationservice": "AMCAS",
+  "state": "D.C",
+  "city": "Washington",
+  "imageurl": "georgetown/georgetown.svg",
+  "page": "/school-page/71",
+  "course_requirements": [
+    "Biology",
+    "General Chemistry",
+    "Organic Chemistry",
+    "Physics",
+    "Mathematics"
+  ],
+  "eligible": [
+    "Out of State",
+    "International"
+  ],
+  "standardized_tests": [
+    "MCAT"
+  ],
+  "median_mcat": 503,
+  "median_gpa": 3.5,
+  "school_type": "Private",
+  "campus_type": "Urban",
+  "dual_degree_programs": [
+    "MD/MPH",
+    "MD/PhD",
+    "MD/MBA",
+    "MD/MS",
+    "MD/MALS"
+  ],
+  "admissions_tags": [],
+  "academics_tags": [],
+  "finance": {
+    "os_tuition": 99999,
+    "is_tuition": 99999,
+    "source": [
+      {
+        "note": "",
+        "update_date": {
+          "$date": "2020-12-06T17:37:57.505Z"
+        },
+        "link": ""
+      }
+    ]
+  },
+  "overview": {
+    "mission_statement": "",
+    "description": "",
+    "students": 9999,
+    "header_images": [
+      "feinberg/header1.jpg",
+      "feinberg/header2.jpg",
+      "feinberg/header3.jpg"
+    ]
+  }
+},{
+  "mongoid": {
+    "$oid": "5fa885e52efdc422b862ed74"
+  },
+  "name": "Hackensack Meridian School of Medicine",
+  "id": 72,
+  "schoolcolor": "#002072",
+  "degreetype": "MD",
+  "applicationservice": "AMCAS",
+  "state": "New Jersey",
+  "city": "Nutley",
+  "imageurl": "hackensack/hackensack.png",
+  "page": "/school-page/72",
+  "course_requirements": [
+    "Biology",
+    "General Chemistry",
+    "Organic Chemistry",
+    "Physics",
+    "Mathematics",
+    "Behavioral Sciences",
+    "English"
+  ],
+  "eligible": [
+    "Out of State"
+  ],
+  "standardized_tests": [
+    "MCAT"
+  ],
+  "median_mcat": 503,
+  "median_gpa": 3.5,
+  "school_type": "Private",
+  "campus_type": "Suburban",
+  "dual_degree_programs": [],
+  "admissions_tags": [],
+  "academics_tags": [],
+  "finance": {
+    "os_tuition": 99999,
+    "is_tuition": 99999,
+    "source": [
+      {
+        "note": "",
+        "update_date": {
+          "$date": "2020-12-06T17:37:57.505Z"
+        },
+        "link": ""
+      }
+    ]
+  },
+  "overview": {
+    "mission_statement": "",
+    "description": "",
+    "students": 9999,
+    "header_images": [
+      "feinberg/header1.jpg",
+      "feinberg/header2.jpg",
+      "feinberg/header3.jpg"
+    ]
+  }
+},{
+  "mongoid": {
+    "$oid": "5fa885e52efdc422b862ed75"
+  },
+  "name": "Howard University College of Medicine",
+  "id": 73,
+  "schoolcolor": "#003a63",
+  "degreetype": "MD",
+  "applicationservice": "AMCAS",
+  "state": "D.C",
+  "city": "Washington",
+  "imageurl": "howard/howard.png",
+  "page": "/school-page/73",
+  "course_requirements": [
+    "Biology",
+    "General Chemistry",
+    "Behavioral Sciences",
+    "Organic Chemistry",
+    "Physics",
+    "Mathematics"
+  ],
+  "eligible": [
+    "Out of State",
+    "International"
+  ],
+  "standardized_tests": [
+    "MCAT",
+    "CASPER"
+  ],
+  "median_mcat": 503,
+  "median_gpa": 3.5,
+  "school_type": "Private",
+  "campus_type": "Urban",
+  "dual_degree_programs": [
+    "MD/PhD",
+    "MD/MBA"
+  ],
+  "admissions_tags": [],
+  "academics_tags": [],
+  "finance": {
+    "os_tuition": 99999,
+    "is_tuition": 99999,
+    "source": [
+      {
+        "note": "",
+        "update_date": {
+          "$date": "2020-12-06T17:37:57.505Z"
+        },
+        "link": ""
+      }
+    ]
+  },
+  "overview": {
+    "mission_statement": "",
+    "description": "",
+    "students": 9999,
+    "header_images": [
+      "feinberg/header1.jpg",
+      "feinberg/header2.jpg",
+      "feinberg/header3.jpg"
+    ]
+  }
+},{
+  "mongoid": {
+    "$oid": "5fa885e52efdc422b862ed76"
+  },
+  "name": "Icahn School of Medicine at Mount Sinai",
+  "id": 74,
+  "schoolcolor": "#1C116A",
+  "degreetype": "MD",
+  "applicationservice": "AMCAS",
+  "state": "New York",
+  "city": "New York",
+  "imageurl": "sinai/sinai.jpg",
+  "page": "/school-page/74",
+  "course_requirements": [
+    "Biology",
+    "General Chemistry",
+    "Biochemistry",
+    "Organic Chemistry",
+    "Physics",
+    "Mathematics",
+    "English"
+  ],
+  "eligible": [
+    "Out of State",
+    "International"
+  ],
+  "standardized_tests": [
+    "MCAT"
+  ],
+  "median_mcat": 503,
+  "median_gpa": 3.5,
+  "school_type": "Private",
+  "campus_type": "Urban",
+  "dual_degree_programs": [
+    "MD/PhD",
+    "MD/MPH",
+    "MD/MSCR"
+  ],
+  "admissions_tags": [
+    "Early Decision Program"
+  ],
+  "academics_tags": [],
+  "finance": {
+    "os_tuition": 99999,
+    "is_tuition": 99999,
+    "source": [
+      {
+        "note": "",
+        "update_date": {
+          "$date": "2020-12-06T17:37:57.505Z"
+        },
+        "link": ""
+      }
+    ]
+  },
+  "overview": {
+    "mission_statement": "",
+    "description": "",
+    "students": 9999,
+    "header_images": [
+      "feinberg/header1.jpg",
+      "feinberg/header2.jpg",
+      "feinberg/header3.jpg"
+    ]
+  }
+},{
+  "mongoid": {
+    "$oid": "5fa885e52efdc422b862ed77"
+  },
+  "name": "Indiana University School of Medicine",
+  "id": 75,
+  "schoolcolor": "#900",
+  "degreetype": "MD",
+  "applicationservice": "AMCAS",
+  "state": "Indiana",
+  "city": "Indianapolis",
+  "imageurl": "indiana/indiana.jpg",
+  "page": "/school-page/75",
+  "course_requirements": [
+    "Biology",
+    "General Chemistry",
+    "Biochemistry",
+    "Organic Chemistry",
+    "Physics",
+    "Behavioral Sciences"
+  ],
+  "eligible": [
+    "Out of State",
+    "International"
+  ],
+  "standardized_tests": [
+    "MCAT",
+    "CASPER"
+  ],
+  "median_mcat": 503,
+  "median_gpa": 3.5,
+  "school_type": "Public",
+  "campus_type": "Urban",
+  "dual_degree_programs": [
+    "MD/PhD",
+    "MD/JD",
+    "MD/MPH",
+    "MD/MS",
+    "MD/MA",
+    "MD/MBA"
+  ],
+  "admissions_tags": [
+    "Early Decision Program"
+  ],
+  "academics_tags": [],
+  "finance": {
+    "os_tuition": 99999,
+    "is_tuition": 99999,
+    "source": [
+      {
+        "note": "",
+        "update_date": {
+          "$date": "2020-12-06T17:37:57.505Z"
+        },
+        "link": ""
+      }
+    ]
+  },
+  "overview": {
+    "mission_statement": "",
+    "description": "",
+    "students": 9999,
+    "header_images": [
+      "feinberg/header1.jpg",
+      "feinberg/header2.jpg",
+      "feinberg/header3.jpg"
+    ]
+  }
+},{
+  "mongoid": {
+    "$oid": "5fa885e52efdc422b862ed78"
+  },
+  "name": "Jacobs School of Medicine and Biomedical Sciences at the University at Buffalo",
+  "id": 76,
+  "schoolcolor": "#005bbb",
+  "degreetype": "MD",
+  "applicationservice": "AMCAS",
+  "state": "New York",
+  "city": "Buffalo",
+  "imageurl": "buffalo/buffalo.jpg",
+  "page": "/school-page/76",
+  "course_requirements": [
+    "Biology",
+    "General Chemistry",
+    "Organic Chemistry",
+    "Physics"
+  ],
+  "eligible": [
+    "Out of State",
+    "International"
+  ],
+  "standardized_tests": [
+    "MCAT"
+  ],
+  "median_mcat": 503,
+  "median_gpa": 3.5,
+  "school_type": "Public",
+  "campus_type": "Urban",
+  "dual_degree_programs": [
+    "MD/PhD",
+    "MD/OMFS",
+    "MD/MPH",
+    "MD/MBA"
+  ],
+  "admissions_tags": [
+    "Early Decision Program"
+  ],
+  "academics_tags": [],
+  "finance": {
+    "os_tuition": 99999,
+    "is_tuition": 99999,
+    "source": [
+      {
+        "note": "",
+        "update_date": {
+          "$date": "2020-12-06T17:37:57.505Z"
+        },
+        "link": ""
+      }
+    ]
+  },
+  "overview": {
+    "mission_statement": "",
+    "description": "",
+    "students": 9999,
+    "header_images": [
+      "feinberg/header1.jpg",
+      "feinberg/header2.jpg",
+      "feinberg/header3.jpg"
+    ]
+  }
+},{
+  "mongoid": {
+    "$oid": "5fa885e52efdc422b862ed79"
+  },
+  "name": "Johns Hopkins University School of Medicine",
+  "id": 77,
+  "schoolcolor": "#0073cf",
+  "degreetype": "MD",
+  "applicationservice": "AMCAS",
+  "state": "Maryland",
+  "city": "Baltimore",
+  "imageurl": "hopkins/hopkins.png",
+  "page": "/school-page/77",
+  "course_requirements": [
+    "Biology",
+    "General Chemistry",
+    "Biohcemistry",
+    "Organic Chemistry",
+    "Physics",
+    "Behavioral Sciences",
+    "English",
+    "Mathematics",
+    "Statistics"
+  ],
+  "eligible": [
+    "Out of State",
+    "International"
+  ],
+  "standardized_tests": [
+    "MCAT"
+  ],
+  "median_mcat": 503,
+  "median_gpa": 3.5,
+  "school_type": "Private",
+  "campus_type": "Urban",
+  "dual_degree_programs": [
+    "MD/PhD",
+    "MD/MBA",
+    "MD/MPH",
+    "MD/MSHCM"
+  ],
+  "admissions_tags": [],
+  "academics_tags": [],
+  "finance": {
+    "os_tuition": 99999,
+    "is_tuition": 99999,
+    "source": [
+      {
+        "note": "",
+        "update_date": {
+          "$date": "2020-12-06T17:37:57.505Z"
+        },
+        "link": ""
+      }
+    ]
+  },
+  "overview": {
+    "mission_statement": "",
+    "description": "",
+    "students": 9999,
+    "header_images": [
+      "feinberg/header1.jpg",
+      "feinberg/header2.jpg",
+      "feinberg/header3.jpg"
+    ]
+  }
+},{
+  "mongoid": {
+    "$oid": "5fa885e52efdc422b862ed7a"
+  },
+  "name": "Kaiser Permanente Bernard J. Tyson School of Medicine",
+  "id": 78,
+  "schoolcolor": "#1741a0",
+  "degreetype": "MD",
+  "applicationservice": "AMCAS",
+  "state": "California",
+  "city": "Pasadena",
+  "imageurl": "kaiser/kaiser.png",
+  "page": "/school-page/78",
+  "course_requirements": [
+    "Biology",
+    "General Chemistry",
+    "Organic Chemistry",
+    "Physics",
+    "Behavioral Sciences",
+    "English"
+  ],
+  "eligible": [
+    "Out of State"
+  ],
+  "standardized_tests": [
+    "MCAT"
+  ],
+  "median_mcat": 503,
+  "median_gpa": 3.5,
+  "school_type": "Private",
+  "campus_type": "Urban",
+  "dual_degree_programs": [
+    "MD/PhD",
+    "MD/MS",
+    "MD/MHA",
+    "MD/MPH"
+  ],
+  "admissions_tags": [],
+  "academics_tags": [],
+  "finance": {
+    "os_tuition": 99999,
+    "is_tuition": 99999,
+    "source": [
+      {
+        "note": "",
+        "update_date": {
+          "$date": "2020-12-06T17:37:57.505Z"
+        },
+        "link": ""
+      }
+    ]
+  },
+  "overview": {
+    "mission_statement": "",
+    "description": "",
+    "students": 9999,
+    "header_images": [
+      "feinberg/header1.jpg",
+      "feinberg/header2.jpg",
+      "feinberg/header3.jpg"
+    ]
+  }
+},{
+  "mongoid": {
+    "$oid": "5fa885e52efdc422b862ed7b"
+  },
+  "name": "Keck School of Medicine of the University of Southern California",
+  "id": 79,
+  "schoolcolor": "#990000",
+  "degreetype": "MD",
+  "applicationservice": "AMCAS",
+  "state": "California",
+  "city": "Los Angeles",
+  "imageurl": "keck/keck.png",
+  "page": "/school-page/79",
+  "course_requirements": [
+    "Biology",
+    "General Chemistry",
+    "Organic Chemistry",
+    "Physics",
+    "Behavioral Sciences",
+    "English"
+  ],
+  "eligible": [
+    "Out of State",
+    "International"
+  ],
+  "standardized_tests": [
+    "MCAT"
+  ],
+  "median_mcat": 503,
+  "median_gpa": 3.5,
+  "school_type": "Private",
+  "campus_type": "Urban",
+  "dual_degree_programs": [
+    "MD/PhD",
+    "MD/MBA",
+    "MD/MPH"
+  ],
+  "admissions_tags": [],
+  "academics_tags": [],
+  "finance": {
+    "os_tuition": 99999,
+    "is_tuition": 99999,
+    "source": [
+      {
+        "note": "",
+        "update_date": {
+          "$date": "2020-12-06T17:37:57.505Z"
+        },
+        "link": ""
+      }
+    ]
+  },
+  "overview": {
+    "mission_statement": "",
+    "description": "",
+    "students": 9999,
+    "header_images": [
+      "feinberg/header1.jpg",
+      "feinberg/header2.jpg",
+      "feinberg/header3.jpg"
+    ]
+  }
+},{
+  "mongoid": {
+    "$oid": "5fa885e52efdc422b862ed7c"
+  },
+  "name": "Lewis Katz School of Medicine at Temple University",
+  "id": 80,
+  "schoolcolor": "#a41e35",
+  "degreetype": "MD",
+  "applicationservice": "AMCAS",
+  "state": "Pennsylvania",
+  "city": "Philadelphia",
+  "imageurl": "keck/keck.png",
+  "page": "/school-page/80",
+  "course_requirements": [],
+  "eligible": [
+    "Out of State"
+  ],
+  "standardized_tests": [
+    "MCAT",
+    "CASPER"
+  ],
+  "median_mcat": 503,
+  "median_gpa": 3.5,
+  "school_type": "Private",
+  "campus_type": "Urban",
+  "dual_degree_programs": [
+    "MD/PhD",
+    "MD/MBA",
+    "MD/MPH"
+  ],
+  "admissions_tags": [
+    "Early Decision Program"
+  ],
+  "academics_tags": [],
+  "finance": {
+    "os_tuition": 99999,
+    "is_tuition": 99999,
+    "source": [
+      {
+        "note": "",
+        "update_date": {
+          "$date": "2020-12-06T17:37:57.505Z"
+        },
+        "link": ""
+      }
+    ]
+  },
+  "overview": {
+    "mission_statement": "",
+    "description": "",
+    "students": 9999,
+    "header_images": [
+      "feinberg/header1.jpg",
+      "feinberg/header2.jpg",
+      "feinberg/header3.jpg"
+    ]
+  }
+},{
+  "mongoid": {
+    "$oid": "5fa885e52efdc422b862ed7d"
+  },
+  "name": "Lewis Katz School of Medicine at Temple University",
+  "id": 80,
+  "schoolcolor": "#a41e35",
+  "degreetype": "MD",
+  "applicationservice": "AMCAS",
+  "state": "Pennsylvania",
+  "city": "Philadelphia",
+  "imageurl": "keck/keck.png",
+  "page": "/school-page/80",
+  "course_requirements": [],
+  "eligible": [
+    "Out of State"
+  ],
+  "standardized_tests": [
+    "MCAT",
+    "CASPER"
+  ],
+  "median_mcat": 503,
+  "median_gpa": 3.5,
+  "school_type": "Private",
+  "campus_type": "Urban",
+  "dual_degree_programs": [
+    "MD/PhD",
+    "MD/MA",
+    "MD/MPH",
+    "MD/MBA"
+  ],
+  "admissions_tags": [
+    "Early Decision Program"
+  ],
+  "academics_tags": [],
+  "finance": {
+    "os_tuition": 99999,
+    "is_tuition": 99999,
+    "source": [
+      {
+        "note": "",
+        "update_date": {
+          "$date": "2020-12-06T17:37:57.505Z"
+        },
+        "link": ""
+      }
+    ]
+  },
+  "overview": {
+    "mission_statement": "",
+    "description": "",
+    "students": 9999,
+    "header_images": [
+      "feinberg/header1.jpg",
+      "feinberg/header2.jpg",
+      "feinberg/header3.jpg"
+    ]
+  }
+},{
+  "mongoid": {
+    "$oid": "5fa885e52efdc422b862ed7e"
+  },
+  "name": "Lewis Katz School of Medicine at Temple University",
+  "id": 80,
+  "schoolcolor": "#a41e35",
+  "degreetype": "MD",
+  "applicationservice": "AMCAS",
+  "state": "Pennsylvania",
+  "city": "Philadelphia",
+  "imageurl": "keck/keck.png",
+  "page": "/school-page/80",
+  "course_requirements": [],
+  "eligible": [
+    "Out of State"
+  ],
+  "standardized_tests": [
+    "MCAT",
+    "CASPER"
+  ],
+  "median_mcat": 503,
+  "median_gpa": 3.5,
+  "school_type": "Private",
+  "campus_type": "Urban",
+  "dual_degree_programs": [
+    "MD/PhD",
+    "MD/MA",
+    "MD/MPH",
+    "MD/MBA"
+  ],
+  "admissions_tags": [
+    "Early Decision Program"
+  ],
+  "academics_tags": [],
+  "finance": {
+    "os_tuition": 99999,
+    "is_tuition": 99999,
+    "source": [
+      {
+        "note": "",
+        "update_date": {
+          "$date": "2020-12-06T17:37:57.505Z"
+        },
+        "link": ""
+      }
+    ]
+  },
+  "overview": {
+    "mission_statement": "",
+    "description": "",
+    "students": 9999,
+    "header_images": [
+      "feinberg/header1.jpg",
+      "feinberg/header2.jpg",
+      "feinberg/header3.jpg"
+    ]
+  }
+},{
+  "mongoid": {
+    "$oid": "5fa885e52efdc422b862ed7f"
+  },
+  "name": "Loma Linda University School of Medicine",
+  "id": 81,
+  "schoolcolor": "#901C3B",
+  "degreetype": "MD",
+  "applicationservice": "AMCAS",
+  "state": "California",
+  "city": "Loma Linda",
+  "imageurl": "loma/loma.png",
+  "page": "/school-page/81",
+  "course_requirements": [
+    "General Chemistry",
+    "Organic Chemistry",
+    "Biochemistry",
+    "Physics",
+    "Biology"
+  ],
+  "eligible": [
+    "Out of State"
+  ],
+  "standardized_tests": [
+    "MCAT"
+  ],
+  "median_mcat": 503,
+  "median_gpa": 3.5,
+  "school_type": "Private",
+  "campus_type": "Suburban",
+  "dual_degree_programs": [
+    "MD/PhD",
+    "MD/MA"
+  ],
+  "admissions_tags": [
+    "Early Decision Program"
+  ],
+  "academics_tags": [],
+  "finance": {
+    "os_tuition": 99999,
+    "is_tuition": 99999,
+    "source": [
+      {
+        "note": "",
+        "update_date": {
+          "$date": "2020-12-06T17:37:57.505Z"
+        },
+        "link": ""
+      }
+    ]
+  },
+  "overview": {
+    "mission_statement": "",
+    "description": "",
+    "students": 9999,
+    "header_images": [
+      "feinberg/header1.jpg",
+      "feinberg/header2.jpg",
+      "feinberg/header3.jpg"
+    ]
+  }
+},{
+  "mongoid": {
+    "$oid": "5fa885e52efdc422b862ed80"
+  },
+  "name": "Loma Linda University School of Medicine",
+  "id": 82,
+  "schoolcolor": "#901C3B",
+  "degreetype": "MD",
+  "applicationservice": "AMCAS",
+  "state": "California",
+  "city": "Loma Linda",
+  "imageurl": "loma/loma.png",
+  "page": "/school-page/82",
+  "course_requirements": [
+    "General Chemistry",
+    "Organic Chemistry",
+    "Biochemistry",
+    "Physics",
+    "Biology"
+  ],
+  "eligible": [
+    "Out of State"
+  ],
+  "standardized_tests": [
+    "MCAT"
+  ],
+  "median_mcat": 503,
+  "median_gpa": 3.5,
+  "school_type": "Private",
+  "campus_type": "Suburban",
+  "dual_degree_programs": [
+    "MD/PhD",
+    "MD/MA"
+  ],
+  "admissions_tags": [
+    "Early Decision Program"
+  ],
+  "academics_tags": [],
+  "finance": {
+    "os_tuition": 99999,
+    "is_tuition": 99999,
+    "source": [
+      {
+        "note": "",
+        "update_date": {
+          "$date": "2020-12-06T17:37:57.505Z"
+        },
+        "link": ""
+      }
+    ]
+  },
+  "overview": {
+    "mission_statement": "",
+    "description": "",
+    "students": 9999,
+    "header_images": [
+      "feinberg/header1.jpg",
+      "feinberg/header2.jpg",
+      "feinberg/header3.jpg"
+    ]
+  }
+},{
+  "mongoid": {
+    "$oid": "5fa885e52efdc422b862ed81"
+  },
+  "name": "Louisiana State University School of Medicine in New Orleans",
+  "id": 83,
+  "schoolcolor": "#591cbc",
+  "degreetype": "MD",
+  "applicationservice": "AMCAS",
+  "state": "Louisiana",
+  "city": "New Orleans",
+  "imageurl": "lsu/lsu.png",
+  "page": "/school-page/83",
+  "course_requirements": [
+    "General Chemistry",
+    "Organic Chemistry",
+    "Biochemistry",
+    "Physics",
+    "Biology",
+    "English",
+    "Statistics"
+  ],
+  "eligible": [
+    "Out of State"
+  ],
+  "standardized_tests": [
+    "MCAT"
+  ],
+  "median_mcat": 503,
+  "median_gpa": 3.5,
+  "school_type": "Public",
+  "campus_type": "Urban",
+  "dual_degree_programs": [
+    "MD/PhD",
+    "MD/MPH"
+  ],
+  "admissions_tags": [
+    "Early Decision Program"
+  ],
+  "academics_tags": [],
+  "finance": {
+    "os_tuition": 99999,
+    "is_tuition": 99999,
+    "source": [
+      {
+        "note": "",
+        "update_date": {
+          "$date": "2020-12-06T17:37:57.505Z"
+        },
+        "link": ""
+      }
+    ]
+  },
+  "overview": {
+    "mission_statement": "",
+    "description": "",
+    "students": 9999,
+    "header_images": [
+      "feinberg/header1.jpg",
+      "feinberg/header2.jpg",
+      "feinberg/header3.jpg"
+    ]
+  }
+},{
+  "mongoid": {
+    "$oid": "5fa885e52efdc422b862ed82"
+  },
+  "name": "Louisiana State University School of Medicine in Shreveport",
+  "id": 84,
+  "schoolcolor": "#591cbc",
+  "degreetype": "MD",
+  "applicationservice": "AMCAS",
+  "state": "Louisiana",
+  "city": "Shreveport",
+  "imageurl": "lsu/lsu.png",
+  "page": "/school-page/84",
+  "course_requirements": [
+    "General Chemistry",
+    "Organic Chemistry",
+    "Biochemistry",
+    "Physics",
+    "Biology",
+    "English",
+    "Behavioral Sciences"
+  ],
+  "eligible": [
+    "Out of State"
+  ],
+  "standardized_tests": [
+    "MCAT"
+  ],
+  "median_mcat": 503,
+  "median_gpa": 3.5,
+  "school_type": "Public",
+  "campus_type": "Suburban",
+  "dual_degree_programs": [
+    "MD/PhD"
+  ],
+  "admissions_tags": [
+    "Early Decision Program"
+  ],
+  "academics_tags": [],
+  "finance": {
+    "os_tuition": 99999,
+    "is_tuition": 99999,
+    "source": [
+      {
+        "note": "",
+        "update_date": {
+          "$date": "2020-12-06T17:37:57.505Z"
+        },
+        "link": ""
+      }
+    ]
+  },
+  "overview": {
+    "mission_statement": "",
+    "description": "",
+    "students": 9999,
+    "header_images": [
+      "feinberg/header1.jpg",
+      "feinberg/header2.jpg",
+      "feinberg/header3.jpg"
+    ]
+  }
+},{
+  "mongoid": {
+    "$oid": "5fa885e52efdc422b862ed83"
+  },
+  "name": "Loyola University Chicago Stritch School of Medicine",
+  "id": 85,
+  "schoolcolor": "#981e4d",
+  "degreetype": "MD",
+  "applicationservice": "AMCAS",
+  "state": "Illinois",
+  "city": "Maywood",
+  "imageurl": "loyola/loyola.jpg",
+  "page": "/school-page/85",
+  "course_requirements": [
+    "General Chemistry",
+    "Organic Chemistry",
+    "Biology"
+  ],
+  "eligible": [
+    "Out of State"
+  ],
+  "standardized_tests": [
+    "MCAT"
+  ],
+  "median_mcat": 503,
+  "median_gpa": 3.5,
+  "school_type": "Private",
+  "campus_type": "Urban",
+  "dual_degree_programs": [
+    "MD/PhD",
+    "MD/MBA",
+    "MD/MPH",
+    "MD/MA"
+  ],
+  "admissions_tags": [
+    "Early Decision Program"
+  ],
+  "academics_tags": [],
+  "finance": {
+    "os_tuition": 99999,
+    "is_tuition": 99999,
+    "source": [
+      {
+        "note": "",
+        "update_date": {
+          "$date": "2020-12-06T17:37:57.505Z"
+        },
+        "link": ""
+      }
+    ]
+  },
+  "overview": {
+    "mission_statement": "",
+    "description": "",
+    "students": 9999,
+    "header_images": [
+      "feinberg/header1.jpg",
+      "feinberg/header2.jpg",
+      "feinberg/header3.jpg"
+    ]
+  }
+},{
+  "mongoid": {
+    "$oid": "5fa885e52efdc422b862ed84"
+  },
+  "name": "Marshall University Joan C. Edwards School of Medicine",
+  "id": 86,
+  "schoolcolor": "#00af41",
+  "degreetype": "MD",
+  "applicationservice": "AMCAS",
+  "state": "West Virginia",
+  "city": "Huntington",
+  "imageurl": "marshall/marshall.jpg",
+  "page": "/school-page/86",
+  "course_requirements": [
+    "General Chemistry",
+    "Organic Chemistry",
+    "Biology",
+    "Biochemistry",
+    "English",
+    "Behavioral Sciences",
+    "Physics"
+  ],
+  "eligible": [
+    "Out of State"
+  ],
+  "standardized_tests": [
+    "MCAT"
+  ],
+  "median_mcat": 503,
+  "median_gpa": 3.5,
+  "school_type": "Public",
+  "campus_type": "Rural",
+  "dual_degree_programs": [
+    "MD/PhD"
+  ],
+  "admissions_tags": [
+    "Early Decision Program"
+  ],
+  "academics_tags": [],
+  "finance": {
+    "os_tuition": 99999,
+    "is_tuition": 99999,
+    "source": [
+      {
+        "note": "",
+        "update_date": {
+          "$date": "2020-12-06T17:37:57.505Z"
+        },
+        "link": ""
+      }
+    ]
+  },
+  "overview": {
+    "mission_statement": "",
+    "description": "",
+    "students": 9999,
+    "header_images": [
+      "feinberg/header1.jpg",
+      "feinberg/header2.jpg",
+      "feinberg/header3.jpg"
+    ]
+  }
+},{
+  "mongoid": {
+    "$oid": "5fa885e52efdc422b862ed85"
+  },
+  "name": "Mayo Clinic Alix School of Medicine",
+  "id": 87,
+  "schoolcolor": "#0057B8",
+  "degreetype": "MD",
+  "applicationservice": "AMCAS",
+  "state": "Minnesota",
+  "city": "Rochester",
+  "imageurl": "mayo/mayo.png",
+  "page": "/school-page/87",
+  "course_requirements": [],
+  "eligible": [
+    "Out of State"
+  ],
+  "standardized_tests": [
+    "MCAT"
+  ],
+  "median_mcat": 503,
+  "median_gpa": 3.5,
+  "school_type": "Private",
+  "campus_type": "Urban",
+  "dual_degree_programs": [
+    "MD/PhD"
+  ],
+  "admissions_tags": [],
+  "academics_tags": [],
+  "finance": {
+    "os_tuition": 99999,
+    "is_tuition": 99999,
+    "source": [
+      {
+        "note": "",
+        "update_date": {
+          "$date": "2020-12-06T17:37:57.505Z"
+        },
+        "link": ""
+      }
+    ]
+  },
+  "overview": {
+    "mission_statement": "",
+    "description": "",
+    "students": 9999,
+    "header_images": [
+      "feinberg/header1.jpg",
+      "feinberg/header2.jpg",
+      "feinberg/header3.jpg"
+    ]
+  }
+},{
+  "mongoid": {
+    "$oid": "5fa885e52efdc422b862ed86"
+  },
+  "name": "McGovern Medical School at the University of Texas Health Science Center at Houston",
+  "id": 88,
+  "schoolcolor": "#337ab7",
+  "degreetype": "MD",
+  "applicationservice": "TMDSAS",
+  "state": "Texas",
+  "city": "Houston",
+  "imageurl": "uthealth/uthealth.png",
+  "page": "/school-page/88",
+  "course_requirements": [
+    "General Chemistry",
+    "Organic Chemistry",
+    "Biology",
+    "English",
+    "Physics"
+  ],
+  "eligible": [
+    "Out of State",
+    "International"
+  ],
+  "standardized_tests": [
+    "MCAT",
+    "CASPER"
+  ],
+  "median_mcat": 503,
+  "median_gpa": 3.5,
+  "school_type": "Public",
+  "campus_type": "Urban",
+  "dual_degree_programs": [
+    "MD/PhD",
+    "MD/MBA",
+    "MD/MPH",
+    "MD/OMFS",
+    "MD/MS",
+    "MD/MBE"
+  ],
+  "admissions_tags": [],
+  "academics_tags": [],
+  "finance": {
+    "os_tuition": 99999,
+    "is_tuition": 99999,
+    "source": [
+      {
+        "note": "",
+        "update_date": {
+          "$date": "2020-12-06T17:37:57.505Z"
+        },
+        "link": ""
+      }
+    ]
+  },
+  "overview": {
+    "mission_statement": "",
+    "description": "",
+    "students": 9999,
+    "header_images": [
+      "feinberg/header1.jpg",
+      "feinberg/header2.jpg",
+      "feinberg/header3.jpg"
+    ]
+  }
+},{
+  "mongoid": {
+    "$oid": "5fa885e52efdc422b862ed87"
+  },
+  "name": "Medical College of Georgia at Augusta University",
+  "id": 89,
+  "schoolcolor": "#002f55",
+  "degreetype": "MD",
+  "applicationservice": "AMCAS",
+  "state": "Georgia",
+  "city": "Augusta",
+  "imageurl": "augusta/augusta.jpg",
+  "page": "/school-page/89",
+  "course_requirements": [
+    "General Chemistry",
+    "Organic Chemistry",
+    "Biochemistry",
+    "Biology",
+    "English",
+    "Physics",
+    "Statistics"
+  ],
+  "eligible": [
+    "Out of State"
+  ],
+  "standardized_tests": [
+    "MCAT",
+    "CASPER"
+  ],
+  "median_mcat": 503,
+  "median_gpa": 3.5,
+  "school_type": "Public",
+  "campus_type": "Urban",
+  "dual_degree_programs": [
+    "MD/PhD",
+    "MD/MBA"
+  ],
+  "admissions_tags": [
+    "Early Decision Program"
+  ],
+  "academics_tags": [],
+  "finance": {
+    "os_tuition": 99999,
+    "is_tuition": 99999,
+    "source": [
+      {
+        "note": "",
+        "update_date": {
+          "$date": "2020-12-06T17:37:57.505Z"
+        },
+        "link": ""
+      }
+    ]
+  },
+  "overview": {
+    "mission_statement": "",
+    "description": "",
+    "students": 9999,
+    "header_images": [
+      "feinberg/header1.jpg",
+      "feinberg/header2.jpg",
+      "feinberg/header3.jpg"
+    ]
+  }
+},{
+  "mongoid": {
+    "$oid": "5fa885e52efdc422b862ed88"
+  },
+  "name": "Medical College of Georgia at Augusta University",
+  "id": 90,
+  "schoolcolor": "#002f55",
+  "degreetype": "MD",
+  "applicationservice": "AMCAS",
+  "state": "Georgia",
+  "city": "Augusta",
+  "imageurl": "augusta/augusta.jpg",
+  "page": "/school-page/90",
+  "course_requirements": [
+    "General Chemistry",
+    "Organic Chemistry",
+    "Biochemistry",
+    "Biology",
+    "English",
+    "Physics",
+    "Statistics"
+  ],
+  "eligible": [
+    "Out of State"
+  ],
+  "standardized_tests": [
+    "MCAT",
+    "CASPER"
+  ],
+  "median_mcat": 503,
+  "median_gpa": 3.5,
+  "school_type": "Public",
+  "campus_type": "Urban",
+  "dual_degree_programs": [
+    "MD/PhD",
+    "MD/MBA"
+  ],
+  "admissions_tags": [
+    "Early Decision Program"
+  ],
+  "academics_tags": [],
+  "finance": {
+    "os_tuition": 99999,
+    "is_tuition": 99999,
+    "source": [
+      {
+        "note": "",
+        "update_date": {
+          "$date": "2020-12-06T17:37:57.505Z"
+        },
+        "link": ""
+      }
+    ]
+  },
+  "overview": {
+    "mission_statement": "",
+    "description": "",
+    "students": 9999,
+    "header_images": [
+      "feinberg/header1.jpg",
+      "feinberg/header2.jpg",
+      "feinberg/header3.jpg"
+    ]
+  }
+},{
+  "mongoid": {
+    "$oid": "5fa885e52efdc422b862ed89"
+  },
+  "name": "Medical College of Wisconsin",
+  "id": 91,
+  "schoolcolor": "#006f65",
+  "degreetype": "MD",
+  "applicationservice": "AMCAS",
+  "state": "Wisconsin",
+  "city": "Milwaukee",
+  "imageurl": "milwaukee/milwaukee.png",
+  "page": "/school-page/91",
+  "course_requirements": [
+    "General Chemistry",
+    "Organic Chemistry",
+    "Biology",
+    "Mathematics",
+    "Behavioral Sciences",
+    "English",
+    "Physics"
+  ],
+  "eligible": [
+    "Out of State",
+    "International"
+  ],
+  "standardized_tests": [
+    "MCAT",
+    "CASPER"
+  ],
+  "median_mcat": 503,
+  "median_gpa": 3.5,
+  "school_type": "Private",
+  "campus_type": "Urban",
+  "dual_degree_programs": [
+    "MD/PhD",
+    "MD/MS",
+    "MD/MPH"
+  ],
+  "admissions_tags": [
+    "Early Decision Program"
+  ],
+  "academics_tags": [],
+  "finance": {
+    "os_tuition": 99999,
+    "is_tuition": 99999,
+    "source": [
+      {
+        "note": "",
+        "update_date": {
+          "$date": "2020-12-06T17:37:57.505Z"
+        },
+        "link": ""
+      }
+    ]
+  },
+  "overview": {
+    "mission_statement": "",
+    "description": "",
+    "students": 9999,
+    "header_images": [
+      "feinberg/header1.jpg",
+      "feinberg/header2.jpg",
+      "feinberg/header3.jpg"
+    ]
+  }
+},{
+  "mongoid": {
+    "$oid": "5fa885e52efdc422b862ed8a"
+  },
+  "name": "Medical University of South Carolina College of Medicine",
+  "id": 92,
+  "schoolcolor": "#00447c",
+  "degreetype": "MD",
+  "applicationservice": "AMCAS",
+  "state": "South Carolina",
+  "city": "Charleston",
+  "imageurl": "musc/musc.jpg",
+  "page": "/school-page/92",
+  "course_requirements": [
+    "General Chemistry",
+    "Organic Chemistry",
+    "Biology",
+    "Physics"
+  ],
+  "eligible": [
+    "Out of State",
+    "International"
+  ],
+  "standardized_tests": [
+    "MCAT"
+  ],
+  "median_mcat": 503,
+  "median_gpa": 3.5,
+  "school_type": "Public",
+  "campus_type": "Urban",
+  "dual_degree_programs": [
+    "MD/PhD"
+  ],
+  "admissions_tags": [
+    "Early Decision Program"
+  ],
+  "academics_tags": [],
+  "finance": {
+    "os_tuition": 99999,
+    "is_tuition": 99999,
+    "source": [
+      {
+        "note": "",
+        "update_date": {
+          "$date": "2020-12-06T17:37:57.505Z"
+        },
+        "link": ""
+      }
+    ]
+  },
+  "overview": {
+    "mission_statement": "",
+    "description": "",
+    "students": 9999,
+    "header_images": [
+      "feinberg/header1.jpg",
+      "feinberg/header2.jpg",
+      "feinberg/header3.jpg"
+    ]
+  }
+},{
+  "mongoid": {
+    "$oid": "5fa885e52efdc422b862ed8b"
+  },
+  "name": "Meharry Medical College",
+  "id": 93,
+  "schoolcolor": "#7b1142",
+  "degreetype": "MD",
+  "applicationservice": "AMCAS",
+  "state": "Tennessee",
+  "city": "Nashville",
+  "imageurl": "meharry/meharry.png",
+  "page": "/school-page/93",
+  "course_requirements": [
+    "General Chemistry",
+    "Organic Chemistry",
+    "Biology",
+    "Biochemistry",
+    "English",
+    "Physics"
+  ],
+  "eligible": [
+    "Out of State",
+    "International"
+  ],
+  "standardized_tests": [
+    "MCAT",
+    "CASPER"
+  ],
+  "median_mcat": 503,
+  "median_gpa": 3.5,
+  "school_type": "Private",
+  "campus_type": "Urban",
+  "dual_degree_programs": [
+    "MD/PhD"
+  ],
+  "admissions_tags": [
+    "Early Decision Program"
+  ],
+  "academics_tags": [],
+  "finance": {
+    "os_tuition": 99999,
+    "is_tuition": 99999,
+    "source": [
+      {
+        "note": "",
+        "update_date": {
+          "$date": "2020-12-06T17:37:57.505Z"
+        },
+        "link": ""
+      }
+    ]
+  },
+  "overview": {
+    "mission_statement": "",
+    "description": "",
+    "students": 9999,
+    "header_images": [
+      "feinberg/header1.jpg",
+      "feinberg/header2.jpg",
+      "feinberg/header3.jpg"
+    ]
+  }
+},{
+  "mongoid": {
+    "$oid": "5fa885e52efdc422b862ed8c"
+  },
+  "name": "Mercer University School of Medicine",
+  "id": 94,
+  "schoolcolor": "#f76800",
+  "degreetype": "MD",
+  "applicationservice": "AMCAS",
+  "state": "Georgia",
+  "city": "Macron",
+  "imageurl": "meharry/meharry.png",
+  "page": "/school-page/94",
+  "course_requirements": [
+    "General Chemistry",
+    "Organic Chemistry",
+    "Biochemistry",
+    "Biology",
+    "Physics"
+  ],
+  "eligible": [],
+  "standardized_tests": [
+    "MCAT",
+    "CASPER"
+  ],
+  "median_mcat": 503,
+  "median_gpa": 3.5,
+  "school_type": "Private",
+  "campus_type": "Urban",
+  "dual_degree_programs": [
+    "MD/PhD"
+  ],
+  "admissions_tags": [
+    "Early Decision Program"
+  ],
+  "academics_tags": [],
+  "finance": {
+    "os_tuition": 99999,
+    "is_tuition": 99999,
+    "source": [
+      {
+        "note": "",
+        "update_date": {
+          "$date": "2020-12-06T17:37:57.505Z"
+        },
+        "link": ""
+      }
+    ]
+  },
+  "overview": {
+    "mission_statement": "",
+    "description": "",
+    "students": 9999,
+    "header_images": [
+      "feinberg/header1.jpg",
+      "feinberg/header2.jpg",
+      "feinberg/header3.jpg"
+    ]
+  }
+},{
+  "mongoid": {
+    "$oid": "5fa885e52efdc422b862ed8d"
+  },
+  "name": "Michigan State University College of Human Medicine",
+  "id": 95,
+  "schoolcolor": "#18453b",
+  "degreetype": "MD",
+  "applicationservice": "AMCAS",
+  "state": "Michigan",
+  "city": "East Lansing",
+  "imageurl": "michigan/michigan.jpg",
+  "page": "/school-page/95",
+  "course_requirements": [
+    "General Chemistry",
+    "Organic Chemistry",
+    "Biology",
+    "Biochemistry",
+    "Physics"
+  ],
+  "eligible": [
+    "Out of State",
+    "International"
+  ],
+  "standardized_tests": [
+    "MCAT",
+    "CASPER"
+  ],
+  "median_mcat": 503,
+  "median_gpa": 3.5,
+  "school_type": "Public",
+  "campus_type": "Urban",
+  "dual_degree_programs": [
+    "MD/PhD",
+    "MD/MPH",
+    "MD/MBA"
+  ],
+  "admissions_tags": [],
+  "academics_tags": [],
+  "finance": {
+    "os_tuition": 99999,
+    "is_tuition": 99999,
+    "source": [
+      {
+        "note": "",
+        "update_date": {
+          "$date": "2020-12-06T17:37:57.505Z"
+        },
+        "link": ""
+      }
+    ]
+  },
+  "overview": {
+    "mission_statement": "",
+    "description": "",
+    "students": 9999,
+    "header_images": [
+      "feinberg/header1.jpg",
+      "feinberg/header2.jpg",
+      "feinberg/header3.jpg"
+    ]
+  }
+},{
+  "mongoid": {
+    "$oid": "5fa885e52efdc422b862ed8e"
+  },
+  "name": "Morehouse School of Medicine",
+  "id": 96,
+  "schoolcolor": "#1a3f8a",
+  "degreetype": "MD",
+  "applicationservice": "AMCAS",
+  "state": "Georgia",
+  "city": "Atlanta",
+  "imageurl": "morehouse/morehouse.jpg",
+  "page": "/school-page/96",
+  "course_requirements": [
+    "General Chemistry",
+    "Organic Chemistry",
+    "Biology",
+    "Physics",
+    "Mathematics",
+    "English"
+  ],
+  "eligible": [
+    "Out of State",
+    "International"
+  ],
+  "standardized_tests": [
+    "MCAT"
+  ],
+  "median_mcat": 503,
+  "median_gpa": 3.5,
+  "school_type": "Private",
+  "campus_type": "Urban",
+  "dual_degree_programs": [
+    "MD/PhD",
+    "MD/MSCR",
+    "MD/MPH"
+  ],
+  "admissions_tags": [
+    "Early Decision Program"
+  ],
+  "academics_tags": [],
+  "finance": {
+    "os_tuition": 99999,
+    "is_tuition": 99999,
+    "source": [
+      {
+        "note": "",
+        "update_date": {
+          "$date": "2020-12-06T17:37:57.505Z"
+        },
+        "link": ""
+      }
+    ]
+  },
+  "overview": {
+    "mission_statement": "",
+    "description": "",
+    "students": 9999,
+    "header_images": [
+      "feinberg/header1.jpg",
+      "feinberg/header2.jpg",
+      "feinberg/header3.jpg"
+    ]
+  }
+},{
+  "mongoid": {
+    "$oid": "5fa885e52efdc422b862ed8f"
+  },
+  "name": "New York Medical College",
+  "id": 97,
+  "schoolcolor": "#872333",
+  "degreetype": "MD",
+  "applicationservice": "AMCAS",
+  "state": "New York",
+  "city": "Valhalla",
+  "imageurl": "nymc/nymc.jpg",
+  "page": "/school-page/97",
+  "course_requirements": [
+    "General Chemistry",
+    "Organic Chemistry",
+    "Biochemistry",
+    "Biology",
+    "Physics",
+    "English"
+  ],
+  "eligible": [
+    "Out of State",
+    "International"
+  ],
+  "standardized_tests": [
+    "MCAT",
+    "CASPER"
+  ],
+  "median_mcat": 503,
+  "median_gpa": 3.5,
+  "school_type": "Private",
+  "campus_type": "Suburban",
+  "dual_degree_programs": [
+    "MD/PhD",
+    "MD/MPH"
+  ],
+  "admissions_tags": [
+    "Early Decision Program"
+  ],
+  "academics_tags": [],
+  "finance": {
+    "os_tuition": 99999,
+    "is_tuition": 99999,
+    "source": [
+      {
+        "note": "",
+        "update_date": {
+          "$date": "2020-12-06T17:37:57.505Z"
+        },
+        "link": ""
+      }
+    ]
+  },
+  "overview": {
+    "mission_statement": "",
+    "description": "",
+    "students": 9999,
+    "header_images": [
+      "feinberg/header1.jpg",
+      "feinberg/header2.jpg",
+      "feinberg/header3.jpg"
+    ]
+  }
+},{
+  "mongoid": {
+    "$oid": "5fa885e52efdc422b862ed90"
+  },
+  "name": "New York University Grossman School of Medicine",
+  "id": 98,
+  "schoolcolor": "#580f8b",
+  "degreetype": "MD",
+  "applicationservice": "AMCAS",
+  "state": "New York",
+  "city": "New York",
+  "imageurl": "nyu/nyu.png",
+  "page": "/school-page/98",
+  "course_requirements": [],
+  "eligible": [
+    "Out of State",
+    "International"
+  ],
+  "standardized_tests": [
+    "MCAT"
+  ],
+  "median_mcat": 503,
+  "median_gpa": 3.5,
+  "school_type": "Private",
+  "campus_type": "Urban",
+  "dual_degree_programs": [
+    "MD/PhD",
+    "MD/MPH",
+    "MD/MPA",
+    "MD/MS",
+    "MD/MBA"
+  ],
+  "admissions_tags": [],
+  "academics_tags": [],
+  "finance": {
+    "os_tuition": 99999,
+    "is_tuition": 99999,
+    "source": [
+      {
+        "note": "",
+        "update_date": {
+          "$date": "2020-12-06T17:37:57.505Z"
+        },
+        "link": ""
+      }
+    ]
+  },
+  "overview": {
+    "mission_statement": "",
+    "description": "",
+    "students": 9999,
+    "header_images": [
+      "feinberg/header1.jpg",
+      "feinberg/header2.jpg",
+      "feinberg/header3.jpg"
+    ]
+  }
+},{
+  "mongoid": {
+    "$oid": "5fa885e52efdc422b862ed91"
+  },
+  "name": "New York University Long Island School of Medicine",
+  "id": 99,
+  "schoolcolor": "#580f8b",
+  "degreetype": "MD",
+  "applicationservice": "AMCAS",
+  "state": "New York",
+  "city": "Mineola",
+  "imageurl": "nyu/nyu.png",
+  "page": "/school-page/99",
+  "course_requirements": [],
+  "eligible": [
+    "Out of State",
+    "International"
+  ],
+  "standardized_tests": [
+    "MCAT"
+  ],
+  "median_mcat": 503,
+  "median_gpa": 3.5,
+  "school_type": "Private",
+  "campus_type": "Suburban",
+  "dual_degree_programs": [
+    "MD/PhD",
+    "MD/MPH",
+    "MD/MPA",
+    "MD/MS",
+    "MD/MBA"
+  ],
+  "admissions_tags": [],
+  "academics_tags": [],
+  "finance": {
+    "os_tuition": 99999,
+    "is_tuition": 99999,
+    "source": [
+      {
+        "note": "",
+        "update_date": {
+          "$date": "2020-12-06T17:37:57.505Z"
+        },
+        "link": ""
+      }
+    ]
+  },
+  "overview": {
+    "mission_statement": "",
+    "description": "",
+    "students": 9999,
+    "header_images": [
+      "feinberg/header1.jpg",
+      "feinberg/header2.jpg",
+      "feinberg/header3.jpg"
+    ]
+  }
+},{
+  "mongoid": {
+    "$oid": "5fa885e52efdc422b862ed92"
+  },
+  "name": "Northeast Ohio Medical University",
+  "id": 100,
+  "schoolcolor": "#0072bc",
+  "degreetype": "MD",
+  "applicationservice": "AMCAS",
+  "state": "Ohio",
+  "city": "Rootstown",
+  "imageurl": "neohio/neohio.png",
+  "page": "/school-page/100",
+  "course_requirements": [
+    "General Chemistry",
+    "Organic Chemistry",
+    "Biochemistry",
+    "Biology",
+    "Physics"
+  ],
+  "eligible": [
+    "Out of State",
+    "International"
+  ],
+  "standardized_tests": [
+    "MCAT",
+    "CASPER"
+  ],
+  "median_mcat": 503,
+  "median_gpa": 3.5,
+  "school_type": "Public",
+  "campus_type": "Rural",
+  "dual_degree_programs": [
+    "MD/PhD",
+    "MD/MPH"
+  ],
+  "admissions_tags": [
+    "Early Decision Program"
+  ],
+  "academics_tags": [],
+  "finance": {
+    "os_tuition": 99999,
+    "is_tuition": 99999,
+    "source": [
+      {
+        "note": "",
+        "update_date": {
+          "$date": "2020-12-06T17:37:57.505Z"
+        },
+        "link": ""
+      }
+    ]
+  },
+  "overview": {
+    "mission_statement": "",
+    "description": "",
+    "students": 9999,
+    "header_images": [
+      "feinberg/header1.jpg",
+      "feinberg/header2.jpg",
+      "feinberg/header3.jpg"
+    ]
+  }
+},{
+  "mongoid": {
+    "$oid": "5fa885e52efdc422b862ed93"
+  },
+  "name": "Northwestern University The Feinberg School of Medicine",
+  "id": 101,
+  "schoolcolor": "#514689",
+  "degreetype": "MD",
+  "applicationservice": "AMCAS",
+  "state": "Illinois",
+  "city": "Chicago",
+  "imageurl": "feinberg/feinberg.jpg",
+  "page": "/school-page/101",
+  "course_requirements": [
+    "General Chemistry",
+    "Organic Chemistry",
+    "Biology",
+    "Physics"
+  ],
+  "eligible": [
+    "Out of State",
+    "International"
+  ],
+  "standardized_tests": [
+    "MCAT"
+  ],
+  "median_mcat": 503,
+  "median_gpa": 3.5,
+  "school_type": "Private",
+  "campus_type": "Urban",
+  "dual_degree_programs": [
+    "MD/PhD",
+    "MD/MPH",
+    "MD/MBA"
+  ],
+  "admissions_tags": [
+    "Early Decision Program"
+  ],
+  "academics_tags": [],
+  "finance": {
+    "os_tuition": 99999,
+    "is_tuition": 99999,
+    "source": [
+      {
+        "note": "",
+        "update_date": {
+          "$date": "2020-12-06T17:37:57.505Z"
+        },
+        "link": ""
+      }
+    ]
+  },
+  "overview": {
+    "mission_statement": "",
+    "description": "",
+    "students": 9999,
+    "header_images": [
+      "feinberg/header1.jpg",
+      "feinberg/header2.jpg",
+      "feinberg/header3.jpg"
+    ]
+  }
+},{
+  "mongoid": {
+    "$oid": "5fa885e52efdc422b862ed94"
+  },
+  "name": "Nova Southeastern University Dr. Kiran C. Patel College of Allopathic Medicine",
+  "id": 102,
+  "schoolcolor": "#263875",
+  "degreetype": "MD",
+  "applicationservice": "AMCAS",
+  "state": "Florida",
+  "city": "Davie",
+  "imageurl": "nova/nova.jpg",
+  "page": "/school-page/102",
+  "course_requirements": [
+    "General Chemistry",
+    "Organic Chemistry",
+    "Biology",
+    "Physics",
+    "Mathematics"
+  ],
+  "eligible": [
+    "Out of State"
+  ],
+  "standardized_tests": [
+    "MCAT"
+  ],
+  "median_mcat": 503,
+  "median_gpa": 3.5,
+  "school_type": "Private",
+  "campus_type": "Urban",
+  "dual_degree_programs": [],
+  "admissions_tags": [
+    "Early Decision Program"
+  ],
+  "academics_tags": [],
+  "finance": {
+    "os_tuition": 99999,
+    "is_tuition": 99999,
+    "source": [
+      {
+        "note": "",
+        "update_date": {
+          "$date": "2020-12-06T17:37:57.505Z"
+        },
+        "link": ""
+      }
+    ]
+  },
+  "overview": {
+    "mission_statement": "",
+    "description": "",
+    "students": 9999,
+    "header_images": [
+      "feinberg/header1.jpg",
+      "feinberg/header2.jpg",
+      "feinberg/header3.jpg"
+    ]
+  }
+},{
+  "mongoid": {
+    "$oid": "5fa885e52efdc422b862ed95"
+  },
+  "name": "Oakland University William Beaumont School of Medicine",
+  "id": 103,
+  "schoolcolor": "rgb(0, 53, 148)",
+  "degreetype": "MD",
+  "applicationservice": "AMCAS",
+  "state": "Michigan",
+  "city": "Rochester",
+  "imageurl": "ouwb/ouwb.jpg",
+  "page": "/school-page/103",
+  "course_requirements": [
+    "General Chemistry",
+    "Biochemistry",
+    "Biology",
+    "Physics",
+    "Statistics",
+    "Behavioral Sciences"
+  ],
+  "eligible": [
+    "Out of State"
+  ],
+  "standardized_tests": [
+    "MCAT"
+  ],
+  "median_mcat": 503,
+  "median_gpa": 3.5,
+  "school_type": "Private",
+  "campus_type": "Suburban",
+  "dual_degree_programs": [],
+  "admissions_tags": [],
+  "academics_tags": [],
+  "finance": {
+    "os_tuition": 99999,
+    "is_tuition": 99999,
+    "source": [
+      {
+        "note": "",
+        "update_date": {
+          "$date": "2020-12-06T17:37:57.505Z"
+        },
+        "link": ""
+      }
+    ]
+  },
+  "overview": {
+    "mission_statement": "",
+    "description": "",
+    "students": 9999,
+    "header_images": [
+      "feinberg/header1.jpg",
+      "feinberg/header2.jpg",
+      "feinberg/header3.jpg"
+    ]
+  }
+},{
+  "mongoid": {
+    "$oid": "5fa885e52efdc422b862ed96"
+  },
+  "name": "Ohio State University College of Medicine",
+  "id": 104,
+  "schoolcolor": "#b00",
+  "degreetype": "MD",
+  "applicationservice": "AMCAS",
+  "state": "Ohio",
+  "city": "Columbus",
+  "imageurl": "ohiostate/ohiostate.jpg",
+  "page": "/school-page/104",
+  "course_requirements": [
+    "General Chemistry",
+    "Organic Chemistry",
+    "Biochemistry",
+    "Biology",
+    "Physics"
+  ],
+  "eligible": [
+    "Out of State"
+  ],
+  "standardized_tests": [
+    "MCAT"
+  ],
+  "median_mcat": 503,
+  "median_gpa": 3.5,
+  "school_type": "Public",
+  "campus_type": "Urban",
+  "dual_degree_programs": [
+    "MD/JD",
+    "MD/MPH",
+    "MD/MHA",
+    "MD/PhD",
+    "MD/MBA"
+  ],
+  "admissions_tags": [],
+  "academics_tags": [],
+  "finance": {
+    "os_tuition": 99999,
+    "is_tuition": 99999,
+    "source": [
+      {
+        "note": "",
+        "update_date": {
+          "$date": "2020-12-06T17:37:57.505Z"
+        },
+        "link": ""
+      }
+    ]
+  },
+  "overview": {
+    "mission_statement": "",
+    "description": "",
+    "students": 9999,
+    "header_images": [
+      "feinberg/header1.jpg",
+      "feinberg/header2.jpg",
+      "feinberg/header3.jpg"
+    ]
+  }
+},{
+  "mongoid": {
+    "$oid": "5fa885e52efdc422b862ed97"
+  },
+  "name": "Oregon Health & Science University School of Medicine",
+  "id": 105,
+  "schoolcolor": "#0072ff",
+  "degreetype": "MD",
+  "applicationservice": "AMCAS",
+  "state": "Oregon",
+  "city": "Portland",
+  "imageurl": "oregon/oregon.png",
+  "page": "/school-page/105",
+  "course_requirements": [],
+  "eligible": [
+    "Out of State"
+  ],
+  "standardized_tests": [
+    "MCAT",
+    "CASPER"
+  ],
+  "median_mcat": 503,
+  "median_gpa": 3.5,
+  "school_type": "Public",
+  "campus_type": "Urban",
+  "dual_degree_programs": [
+    "MD/MPH",
+    "MD/PhD"
+  ],
+  "admissions_tags": [],
+  "academics_tags": [],
+  "finance": {
+    "os_tuition": 99999,
+    "is_tuition": 99999,
+    "source": [
+      {
+        "note": "",
+        "update_date": {
+          "$date": "2020-12-06T17:37:57.505Z"
+        },
+        "link": ""
+      }
+    ]
+  },
+  "overview": {
+    "mission_statement": "",
+    "description": "",
+    "students": 9999,
+    "header_images": [
+      "feinberg/header1.jpg",
+      "feinberg/header2.jpg",
+      "feinberg/header3.jpg"
+    ]
+  }
+},{
+  "mongoid": {
+    "$oid": "5fa885e52efdc422b862ed98"
+  },
+  "name": "Pennsylvania State University College of Medicine",
+  "id": 106,
+  "schoolcolor": "#00539b",
+  "degreetype": "MD",
+  "applicationservice": "AMCAS",
+  "state": "Pennsylvania",
+  "city": "Hershey",
+  "imageurl": "pennstate/pennstate.jpg",
+  "page": "/school-page/106",
+  "course_requirements": [],
+  "eligible": [
+    "Out of State"
+  ],
+  "standardized_tests": [
+    "MCAT",
+    "CASPER"
+  ],
+  "median_mcat": 503,
+  "median_gpa": 3.5,
+  "school_type": "Public",
+  "campus_type": "Urban",
+  "dual_degree_programs": [
+    "MD/MPH",
+    "MD/PhD",
+    "MD/MBA"
+  ],
+  "admissions_tags": [
+    "Early Decision Program"
+  ],
+  "academics_tags": [],
+  "finance": {
+    "os_tuition": 99999,
+    "is_tuition": 99999,
+    "source": [
+      {
+        "note": "",
+        "update_date": {
+          "$date": "2020-12-06T17:37:57.505Z"
+        },
+        "link": ""
+      }
+    ]
+  },
+  "overview": {
+    "mission_statement": "",
+    "description": "",
+    "students": 9999,
+    "header_images": [
+      "feinberg/header1.jpg",
+      "feinberg/header2.jpg",
+      "feinberg/header3.jpg"
+    ]
+  }
+},{
+  "mongoid": {
+    "$oid": "5fa885e52efdc422b862ed99"
+  },
+  "name": "Perelman School of Medicine at the University of Pennsylvania",
+  "id": 107,
+  "schoolcolor": "#00539b",
+  "degreetype": "MD",
+  "applicationservice": "AMCAS",
+  "state": "Pennsylvania",
+  "city": "Philadelphia",
+  "imageurl": "penn/penn.png",
+  "page": "/school-page/107",
+  "course_requirements": [],
+  "eligible": [
+    "Out of State",
+    "International"
+  ],
+  "standardized_tests": [
+    "MCAT"
+  ],
+  "median_mcat": 503,
+  "median_gpa": 3.5,
+  "school_type": "Private",
+  "campus_type": "Urban",
+  "dual_degree_programs": [
+    "MD/MPH",
+    "MD/PhD",
+    "MD/MBA",
+    "MD/JD"
+  ],
+  "admissions_tags": [
+    "Early Decision Program"
+  ],
+  "academics_tags": [],
+  "finance": {
+    "os_tuition": 99999,
+    "is_tuition": 99999,
+    "source": [
+      {
+        "note": "",
+        "update_date": {
+          "$date": "2020-12-06T17:37:57.505Z"
+        },
+        "link": ""
+      }
+    ]
+  },
+  "overview": {
+    "mission_statement": "",
+    "description": "",
+    "students": 9999,
+    "header_images": [
+      "feinberg/header1.jpg",
+      "feinberg/header2.jpg",
+      "feinberg/header3.jpg"
+    ]
+  }
+},{
+  "mongoid": {
+    "$oid": "5fa885e52efdc422b862ed9a"
+  },
+  "name": "Renaissance School of Medicine at Stony Brook University",
+  "id": 108,
+  "schoolcolor": "#990000",
+  "degreetype": "MD",
+  "applicationservice": "AMCAS",
+  "state": "New York",
+  "city": "Stony Brook",
+  "imageurl": "stonybrook/stonybrook.png",
+  "page": "/school-page/108",
+  "course_requirements": [
+    "General Chemistry",
+    "Organic Chemistry",
+    "English",
+    "Physics",
+    "Biology",
+    "Statistics",
+    "Behavioral Sciences",
+    "Biochemistry"
+  ],
+  "eligible": [
+    "Out of State",
+    "International"
+  ],
+  "standardized_tests": [
+    "MCAT",
+    "CASPER"
+  ],
+  "median_mcat": 503,
+  "median_gpa": 3.5,
+  "school_type": "Public",
+  "campus_type": "Suburban",
+  "dual_degree_programs": [
+    "MD/PhD",
+    "MD/MBA",
+    "MD/MA",
+    "MD/MPH"
+  ],
+  "admissions_tags": [
+    "Early Decision Program"
+  ],
+  "academics_tags": [],
+  "finance": {
+    "os_tuition": 99999,
+    "is_tuition": 99999,
+    "source": [
+      {
+        "note": "",
+        "update_date": {
+          "$date": "2020-12-06T17:37:57.505Z"
+        },
+        "link": ""
+      }
+    ]
+  },
+  "overview": {
+    "mission_statement": "",
+    "description": "",
+    "students": 9999,
+    "header_images": [
+      "feinberg/header1.jpg",
+      "feinberg/header2.jpg",
+      "feinberg/header3.jpg"
+    ]
+  }
+},{
+  "mongoid": {
+    "$oid": "5fa885e52efdc422b862ed9b"
+  },
+  "name": "Robert Larner, M.D., College of Medicine at the University of Vermont",
+  "id": 109,
+  "schoolcolor": "#006021",
+  "degreetype": "MD",
+  "applicationservice": "AMCAS",
+  "state": "Vermont",
+  "city": "Burlington",
+  "imageurl": "uvm/uvm.jpg",
+  "page": "/school-page/109",
+  "course_requirements": [
+    "General Chemistry",
+    "Organic Chemistry",
+    "Physics",
+    "Biology"
+  ],
+  "eligible": [
+    "Out of State"
+  ],
+  "standardized_tests": [
+    "MCAT",
+    "CASPER"
+  ],
+  "median_mcat": 503,
+  "median_gpa": 3.5,
+  "school_type": "Public",
+  "campus_type": "Suburban",
+  "dual_degree_programs": [],
+  "admissions_tags": [
+    "Early Decision Program"
+  ],
+  "academics_tags": [],
+  "finance": {
+    "os_tuition": 99999,
+    "is_tuition": 99999,
+    "source": [
+      {
+        "note": "",
+        "update_date": {
+          "$date": "2020-12-06T17:37:57.505Z"
+        },
+        "link": ""
+      }
+    ]
+  },
+  "overview": {
+    "mission_statement": "",
+    "description": "",
+    "students": 9999,
+    "header_images": [
+      "feinberg/header1.jpg",
+      "feinberg/header2.jpg",
+      "feinberg/header3.jpg"
+    ]
+  }
+},{
+  "mongoid": {
+    "$oid": "5fa885e52efdc422b862ed9c"
+  },
+  "name": "Rush Medical College of Rush University Medical Center",
+  "id": 110,
+  "schoolcolor": "#085f1f",
+  "degreetype": "MD",
+  "applicationservice": "AMCAS",
+  "state": "Illinois",
+  "city": "Chicago",
+  "imageurl": "rushb/cykablyat.jpg",
+  "page": "/school-page/110",
+  "course_requirements": [],
+  "eligible": [
+    "Out of State"
+  ],
+  "standardized_tests": [
+    "MCAT"
+  ],
+  "median_mcat": 503,
+  "median_gpa": 3.5,
+  "school_type": "Private",
+  "campus_type": "Urban",
+  "dual_degree_programs": [],
+  "admissions_tags": [],
+  "academics_tags": [],
+  "finance": {
+    "os_tuition": 99999,
+    "is_tuition": 99999,
+    "source": [
+      {
+        "note": "",
+        "update_date": {
+          "$date": "2020-12-06T17:37:57.505Z"
+        },
+        "link": ""
+      }
+    ]
+  },
+  "overview": {
+    "mission_statement": "",
+    "description": "",
+    "students": 9999,
+    "header_images": [
+      "feinberg/header1.jpg",
+      "feinberg/header2.jpg",
+      "feinberg/header3.jpg"
+    ]
+  }
+},{
+  "mongoid": {
+    "$oid": "5fa885e52efdc422b862ed9d"
+  },
+  "name": "Rutgers New Jersey Medical School",
+  "id": 111,
+  "schoolcolor": "#cc0033",
+  "degreetype": "MD",
+  "applicationservice": "AMCAS",
+  "state": "New Jersey",
+  "city": "Newark",
+  "imageurl": "rutgers/rutgers.jpg",
+  "page": "/school-page/111",
+  "course_requirements": [
+    "General Chemistry",
+    "Organic Chemistry",
+    "English",
+    "Physics",
+    "Biology"
+  ],
+  "eligible": [
+    "Out of State",
+    "International"
+  ],
+  "standardized_tests": [
+    "MCAT",
+    "CASPER"
+  ],
+  "median_mcat": 503,
+  "median_gpa": 3.5,
+  "school_type": "Public",
+  "campus_type": "Urban",
+  "dual_degree_programs": [
+    "MD/MBA",
+    "MD/MPH",
+    "MD/PHD"
+  ],
+  "admissions_tags": [
+    "Early Decision Program"
+  ],
+  "academics_tags": [],
+  "finance": {
+    "os_tuition": 99999,
+    "is_tuition": 99999,
+    "source": [
+      {
+        "note": "",
+        "update_date": {
+          "$date": "2020-12-06T17:37:57.505Z"
+        },
+        "link": ""
+      }
+    ]
+  },
+  "overview": {
+    "mission_statement": "",
+    "description": "",
+    "students": 9999,
+    "header_images": [
+      "feinberg/header1.jpg",
+      "feinberg/header2.jpg",
+      "feinberg/header3.jpg"
+    ]
+  }
+},{
+  "mongoid": {
+    "$oid": "5fa885e52efdc422b862ed9e"
+  },
+  "name": "Rutgers, Robert Wood Johnson Medical School",
+  "id": 112,
+  "schoolcolor": "#cc0033",
+  "degreetype": "MD",
+  "applicationservice": "AMCAS",
+  "state": "New Jersey",
+  "city": "Piscataway",
+  "imageurl": "rutgers/rutgers.jpg",
+  "page": "/school-page/112",
+  "course_requirements": [
+    "General Chemistry",
+    "Organic Chemistry",
+    "English",
+    "Physics",
+    "Biology",
+    "Mathematics",
+    "Biochemistry"
+  ],
+  "eligible": [
+    "Out of State",
+    "International"
+  ],
+  "standardized_tests": [
+    "MCAT",
+    "CASPER"
+  ],
+  "median_mcat": 503,
+  "median_gpa": 3.5,
+  "school_type": "Public",
+  "campus_type": "Suburban",
+  "dual_degree_programs": [
+    "MD/MBA",
+    "MD/MPH",
+    "MD/PHD",
+    "MD/JD",
+    "MD/MSCTS"
+  ],
+  "admissions_tags": [
+    "Early Decision Program"
+  ],
+  "academics_tags": [],
+  "finance": {
+    "os_tuition": 99999,
+    "is_tuition": 99999,
+    "source": [
+      {
+        "note": "",
+        "update_date": {
+          "$date": "2020-12-06T17:37:57.505Z"
+        },
+        "link": ""
+      }
+    ]
+  },
+  "overview": {
+    "mission_statement": "",
+    "description": "",
+    "students": 9999,
+    "header_images": [
+      "feinberg/header1.jpg",
+      "feinberg/header2.jpg",
+      "feinberg/header3.jpg"
+    ]
+  }
+},{
+  "mongoid": {
+    "$oid": "5fa885e52efdc422b862ed9f"
+  },
+  "name": "Saint Louis University School of Medicine",
+  "id": 113,
+  "schoolcolor": "#003da5",
+  "degreetype": "MD",
+  "applicationservice": "AMCAS",
+  "state": "Missouri",
+  "city": "Saint Louis",
+  "imageurl": "stlouis/stlouis.jpg",
+  "page": "/school-page/113",
+  "course_requirements": [
+    "General Chemistry",
+    "Organic Chemistry",
+    "English",
+    "Physics",
+    "Biology",
+    "Behavioral Sciences"
+  ],
+  "eligible": [
+    "Out of State",
+    "International"
+  ],
+  "standardized_tests": [
+    "MCAT"
+  ],
+  "median_mcat": 503,
+  "median_gpa": 3.5,
+  "school_type": "Private",
+  "campus_type": "Urban",
+  "dual_degree_programs": [
+    "MD/MBA",
+    "MD/MPH",
+    "MD/PHD",
+    "MD/MS"
+  ],
+  "admissions_tags": [
+    "Early Decision Program"
+  ],
+  "academics_tags": [],
+  "finance": {
+    "os_tuition": 99999,
+    "is_tuition": 99999,
+    "source": [
+      {
+        "note": "",
+        "update_date": {
+          "$date": "2020-12-06T17:37:57.505Z"
+        },
+        "link": ""
+      }
+    ]
+  },
+  "overview": {
+    "mission_statement": "",
+    "description": "",
+    "students": 9999,
+    "header_images": [
+      "feinberg/header1.jpg",
+      "feinberg/header2.jpg",
+      "feinberg/header3.jpg"
+    ]
+  }
+},{
+  "mongoid": {
+    "$oid": "5fa885e52efdc422b862eda0"
+  },
+  "name": "Sidney Kimmel Medical College at Thomas Jefferson University",
+  "id": 114,
+  "schoolcolor": "#152456",
+  "degreetype": "MD",
+  "applicationservice": "AMCAS",
+  "state": "Pennsylvania",
+  "city": "Philadelphia",
+  "imageurl": "jefferson/jefferson.jpg",
+  "page": "/school-page/114",
+  "course_requirements": [
+    "General Chemistry",
+    "Organic Chemistry",
+    "Physics",
+    "Biology"
+  ],
+  "eligible": [
+    "Out of State",
+    "International"
+  ],
+  "standardized_tests": [
+    "MCAT",
+    "CASPER"
+  ],
+  "median_mcat": 503,
+  "median_gpa": 3.5,
+  "school_type": "Private",
+  "campus_type": "Urban",
+  "dual_degree_programs": [
+    "MD/MBA",
+    "MD/MPH",
+    "MD/PHD",
+    "MD/MS"
+  ],
+  "admissions_tags": [
+    "Early Decision Program"
+  ],
+  "academics_tags": [],
+  "finance": {
+    "os_tuition": 99999,
+    "is_tuition": 99999,
+    "source": [
+      {
+        "note": "",
+        "update_date": {
+          "$date": "2020-12-06T17:37:57.505Z"
+        },
+        "link": ""
+      }
+    ]
+  },
+  "overview": {
+    "mission_statement": "",
+    "description": "",
+    "students": 9999,
+    "header_images": [
+      "feinberg/header1.jpg",
+      "feinberg/header2.jpg",
+      "feinberg/header3.jpg"
+    ]
+  }
+},
+{
+  "mongoid": {
+    "$oid": "5fa885e52efdc422b862eda0"
+  },
+  "name": "Southern Illinois University School of Medicine",
+  "id": 115,
+  "schoolcolor": "#68478d",
+  "degreetype": "MD",
+  "applicationservice": "AMCAS",
+  "state": "Illinois",
+  "city": "Springfield",
+  "imageurl": "siu/siu.jpg",
+  "page": "/school-page/115",
+  "course_requirements": [
+  ],
+  "eligible": [
+  ],
+  "standardized_tests": [
+    "MCAT"
+  ],
+  "median_mcat": 503,
+  "median_gpa": 3.5,
+  "school_type": "Public",
+  "campus_type": "Urban",
+  "dual_degree_programs": [
+    "MD/JD", 
+    "MD/MPH"
+  ],
+  "admissions_tags": [
+    "Early Decision Program"
+  ],
+  "academics_tags": [],
+  "finance": {
+    "os_tuition": 99999,
+    "is_tuition": 99999,
+    "source": [
+      {
+        "note": "",
+        "update_date": {
+          "$date": "2020-12-06T17:37:57.505Z"
+        },
+        "link": ""
+      }
+    ]
+  },
+  "overview": {
+    "mission_statement": "",
+    "description": "",
+    "students": 9999,
+    "header_images": [
+      "feinberg/header1.jpg",
+      "feinberg/header2.jpg",
+      "feinberg/header3.jpg"
+    ]
+  }
+},
+{
+"mongoid": {
+  "$oid": "5fa885e52efdc422b862eda0"
+},
+"name": "SUNY Downstate College of Medicine",
+"id": 116,
+"schoolcolor": "#152456",
+"degreetype": "MD",
+"applicationservice": "AMCAS",
+"state": "Brooklyn",
+"city": "New York",
+"imageurl": "stanford/stanford.jpg",
+"page": "/school-page/116",
+"course_requirements": [ "English", "Organic Chemistry", "General Chemistry", "Biology"
+],
+"eligible": [
+  "Out of State"
+],
+"standardized_tests": [
+  "MCAT"
+
+],
+"median_mcat": 503,
+"median_gpa": 3.5,
+"school_type": "Public",
+"campus_type": "Urban",
+"dual_degree_programs": [
+  "MD/MBA",
+  "MD/MPH",
+  "MD/PhD",
+  "MD/MS",
+  "MD/JD"
+],
+"admissions_tags": [ "Early Decision Program"
+  
+],
+"academics_tags": [],
+"finance": {
+  "os_tuition": 99999,
+  "is_tuition": 99999,
+  "source": [
+    {
+      "note": "",
+      "update_date": {
+        "$date": "2020-12-06T17:37:57.505Z"
+      },
+      "link": ""
+    }
+  ]
+},
+"overview": {
+  "mission_statement": "",
+  "description": "",
+  "students": 9999,
+  "header_images": [
+    "feinberg/header1.jpg",
+    "feinberg/header2.jpg",
+    "feinberg/header3.jpg"
+  ]
+}
+}, 
+
+{
+"mongoid": {
+  "$oid": "5fa885e52efdc422b862eda0"
+},
+"name": "Stanford University School of Medicine",
+"id": 117,
+"schoolcolor": "#152456",
+"degreetype": "MD",
+"applicationservice": "AMCAS",
+"state": "Stanford",
+"city": "California",
+"imageurl": "stanford/stanford.jpg",
+"page": "/school-page/116",
+"course_requirements": [
+],
+"eligible": [
+  "Out of State",
+  "International"
+],
+"standardized_tests": [
+  "MCAT"
+
+],
+"median_mcat": 503,
+"median_gpa": 3.5,
+"school_type": "Private",
+"campus_type": "Suburban",
+"dual_degree_programs": [
+  "MD/MBA",
+  "MD/MPH",
+  "MD/PhD",
+  "MD/MS",
+  "MD/JD"
+],
+"admissions_tags": [
+  
+],
+"academics_tags": [],
+"finance": {
+  "os_tuition": 99999,
+  "is_tuition": 99999,
+  "source": [
+    {
+      "note": "",
+      "update_date": {
+        "$date": "2020-12-06T17:37:57.505Z"
+      },
+      "link": ""
+    }
+  ]
+},
+"overview": {
+  "mission_statement": "",
+  "description": "",
+  "students": 9999,
+  "header_images": [
+    "feinberg/header1.jpg",
+    "feinberg/header2.jpg",
+    "feinberg/header3.jpg"
+  ]
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]
