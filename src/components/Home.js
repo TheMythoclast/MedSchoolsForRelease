@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import { SearchProvider, Results, SearchBox, Facet } from "@elastic/react-search-ui";
 import AppSearchAPIConnector from "@elastic/search-ui-app-search-connector";
 import { Layout, BooleanFacet, SingleSelectFacet, SingleLinksFacet } from '@elastic/react-search-ui-views';
-import testResult from './SchoolSearch/TestResult';
+import Result from './SchoolSearch/Result';
 import keys from '../data/keys.json';
 
 import "@elastic/react-search-ui-views/lib/styles/styles.css";
@@ -40,28 +40,29 @@ export default function Home() {
 
 
     return (
-            <SearchProvider config={configurationOptions}>
-                <div className="App">
+            <SearchProvider config={configurationOptions} >
+                <div>
                 
                 <Layout header={<SearchBox />}
+                    
 
                     sideContent={
                         <div>
                             <Facet field="degreetype" label="Degree" filterType="any" isFilterable={true} />
-                            <Facet field="course_requirements" label="Required Courses" filterType="any" isFilterable={true} />
-                            <Facet field="standardized_tests" label="Standardized Tests" filterType="any" isFilterable={true} />
-                            <Facet field="eligible" label="Accepts" filterType="any" isFilterable={true} />
+                            <Facet field="course_requirements" label="Required Courses" filterType="none" isFilterable={true} />
+                            <Facet field="standardized_tests" label="Standardized Tests" filterType="none" isFilterable={true} />
+                            <Facet field="eligible" label="Accepts" filterType="none" isFilterable={true} />
                             <Facet field="campus_type" label="Campus" filterType="any" isFilterable={true} />
                             <Facet field="school_type" label="School" filterType="any" isFilterable={true} />
                             <Facet field="dual_degree_programs" label="School" filterType="any" isFilterable={true} />
                             <Facet field="admissions_tags" label="Admissions Tags" filterType="any" isFilterable={true} />
-
+                            
 
 
                         </div>
                     }
 
-                    bodyContent={<Results resultView={testResult} urlField="page" titleField="name" />} /> 
+                    bodyContent={<Results resultView={Result} urlField="page" titleField="name" />} /> 
                 </div>
                 </SearchProvider>
     );

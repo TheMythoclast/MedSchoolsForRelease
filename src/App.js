@@ -14,9 +14,12 @@ export default class App extends Component {
     return (
       <Layout>
         <Route exact path='/' component={Home} />
-        <Route path='/school-page/:id' component={SchoolPage} />
-        <Route path="/test-page/" component={TestPage} /> 
       </Layout>
     );
   }
 }
+/* 
+        <Route path='/school-page/:id' component={SchoolPage} />
+        <Route path="/test-page/" component={TestPage} /> 
+        These aren't ready and I'm to lazy to delete the files for release
+*/

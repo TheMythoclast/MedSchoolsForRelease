@@ -2,6 +2,10 @@
 a {
   color: #0366d6;
 }
+body{
+  background-color:#f5f5f5;
+   color: #14191e;
+ }
 
 code {
   color: #E01A76;
@@ -13,8 +17,8 @@ code {
   border-color: #1861ac;
 }
 body{
- background-color: #14191e ;
-  color:#f5f5f5;
+ background-color:#f5f5f5;
+  color: #14191e;
 }
 
 .intro-header{
@@ -43,7 +47,12 @@ position: relative;
   display: grid; 
   grid-template-columns: auto auto auto;
 }
-  
+
+.App-search-box{
+  background-color: #14191e ;
+  color:#f5f5f5;
+
+}
 
 
 .transparent{

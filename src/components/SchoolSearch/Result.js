@@ -48,14 +48,14 @@ function getFieldType(result, field, type) {
     }, {});
   }
 
-export default function testResult(props)
+export default function Result(props)
 {
     const fields = getEscapedFields(props.result);
     const title = getEscapedField(props.result, props.titleField);
     return(
-    <div style={{ marginTop: "10px", marginBottom: "10px" }}>
+    <div className="App" style={{marginTop: "10px", marginBottom: "10px" }}>
         <img style={{marginRight: "15px"}} width="100"  height="100" src={"/img/" + fields["imageurl"]}/>
-         <a style={{color: "black"}} href={fields["page"]}>{fields["name"]}</a>
+         {fields["name"]}
     
     
     </div>)
