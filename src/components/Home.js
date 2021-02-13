@@ -7,9 +7,9 @@ import Result from './SchoolSearch/Result';
 import "@elastic/react-search-ui-views/lib/styles/styles.css";
 
 const connector = new AppSearchAPIConnector({
-    searchKey: process.env.searchKey,
-    engineName: process.env.engineName,
-    endpointBase: process.env.endpointBase
+    searchKey: process.env.REACT_APP_searchKey,
+    engineName: process.env.REACT_APP_engineName,
+    endpointBase: process.env.REACT_APP_endpointBase
 });
 // Step #3: Configuration Options
 const configurationOptions = {
