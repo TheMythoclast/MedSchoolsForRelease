@@ -3,14 +3,13 @@ import { SearchProvider, Results, SearchBox, Facet } from "@elastic/react-search
 import AppSearchAPIConnector from "@elastic/search-ui-app-search-connector";
 import { Layout, BooleanFacet, SingleSelectFacet, SingleLinksFacet } from '@elastic/react-search-ui-views';
 import Result from './SchoolSearch/Result';
-import keys from '../data/keys.json';
 
 import "@elastic/react-search-ui-views/lib/styles/styles.css";
 
 const connector = new AppSearchAPIConnector({
-    searchKey: keys.searchKey,
-    engineName: keys.engineName,
-    endpointBase: keys.endpointBase
+    searchKey: process.env.searchKey,
+    engineName: process.env.engineName,
+    endpointBase: process.env.endpointBase
 });
 // Step #3: Configuration Options
 const configurationOptions = {
